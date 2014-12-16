@@ -1,0 +1,1217 @@
+Initial PSNR = 31.365917
+---------------------the Threshold:10
+iter number = 1, PSNR x= 31.366901,  PSNR w= 31.388506
+iter number = 2, PSNR x= 31.367559,  PSNR w= 31.354639
+iter number = 3, PSNR x= 31.368305,  PSNR w= 31.371430
+iter number = 4, PSNR x= 31.368986,  PSNR w= 31.367172
+iter number = 5, PSNR x= 31.369695,  PSNR w= 31.371107
+iter number = 6, PSNR x= 31.370362,  PSNR w= 31.369473
+iter number = 7, PSNR x= 31.371044,  PSNR w= 31.372043
+iter number = 8, PSNR x= 31.371691,  PSNR w= 31.371064
+iter number = 9, PSNR x= 31.372349,  PSNR w= 31.373263
+iter number = 10, PSNR x= 31.372973,  PSNR w= 31.372389
+iter number = 11, PSNR x= 31.373605,  PSNR w= 31.374432
+iter number = 12, PSNR x= 31.374207,  PSNR w= 31.373765
+iter number = 13, PSNR x= 31.374813,  PSNR w= 31.375540
+---------------------the Threshold:20
+iter number = 1, PSNR x= 31.368684,  PSNR w= 31.420054
+iter number = 2, PSNR x= 31.371154,  PSNR w= 31.352092
+iter number = 3, PSNR x= 31.373597,  PSNR w= 31.373155
+iter number = 4, PSNR x= 31.375904,  PSNR w= 31.374021
+iter number = 5, PSNR x= 31.378155,  PSNR w= 31.379822
+iter number = 6, PSNR x= 31.380282,  PSNR w= 31.379889
+iter number = 7, PSNR x= 31.382328,  PSNR w= 31.383575
+iter number = 8, PSNR x= 31.384243,  PSNR w= 31.383911
+iter number = 9, PSNR x= 31.386067,  PSNR w= 31.387161
+iter number = 10, PSNR x= 31.387762,  PSNR w= 31.387555
+iter number = 11, PSNR x= 31.389370,  PSNR w= 31.390601
+iter number = 12, PSNR x= 31.390857,  PSNR w= 31.390932
+iter number = 13, PSNR x= 31.392260,  PSNR w= 31.393510
+---------------------the Threshold:30
+iter number = 1, PSNR x= 31.370111,  PSNR w= 31.446151
+iter number = 2, PSNR x= 31.374639,  PSNR w= 31.364509
+iter number = 3, PSNR x= 31.379133,  PSNR w= 31.375463
+iter number = 4, PSNR x= 31.383380,  PSNR w= 31.380578
+iter number = 5, PSNR x= 31.387340,  PSNR w= 31.386514
+iter number = 6, PSNR x= 31.391052,  PSNR w= 31.392811
+iter number = 7, PSNR x= 31.394427,  PSNR w= 31.394088
+iter number = 8, PSNR x= 31.397508,  PSNR w= 31.398834
+iter number = 9, PSNR x= 31.400263,  PSNR w= 31.401014
+iter number = 10, PSNR x= 31.402716,  PSNR w= 31.404002
+iter number = 11, PSNR x= 31.404847,  PSNR w= 31.405262
+iter number = 12, PSNR x= 31.406705,  PSNR w= 31.408242
+iter number = 13, PSNR x= 31.408316,  PSNR w= 31.410325
+---------------------the Threshold:40
+iter number = 1, PSNR x= 31.371317,  PSNR w= 31.468315
+iter number = 2, PSNR x= 31.377525,  PSNR w= 31.374825
+iter number = 3, PSNR x= 31.384109,  PSNR w= 31.390192
+iter number = 4, PSNR x= 31.390427,  PSNR w= 31.388374
+iter number = 5, PSNR x= 31.396221,  PSNR w= 31.392768
+iter number = 6, PSNR x= 31.401471,  PSNR w= 31.401178
+iter number = 7, PSNR x= 31.406082,  PSNR w= 31.404637
+iter number = 8, PSNR x= 31.410141,  PSNR w= 31.412577
+iter number = 9, PSNR x= 31.413529,  PSNR w= 31.412511
+iter number = 10, PSNR x= 31.416370,  PSNR w= 31.419031
+iter number = 11, PSNR x= 31.418607,  PSNR w= 31.418715
+iter number = 12, PSNR x= 31.420398,  PSNR w= 31.424284
+iter number = 13, PSNR x= 31.421782,  PSNR w= 31.424901
+---------------------the Threshold:50
+iter number = 1, PSNR x= 31.372507,  PSNR w= 31.491294
+iter number = 2, PSNR x= 31.380236,  PSNR w= 31.379848
+iter number = 3, PSNR x= 31.388530,  PSNR w= 31.396948
+iter number = 4, PSNR x= 31.396800,  PSNR w= 31.403010
+iter number = 5, PSNR x= 31.404402,  PSNR w= 31.399873
+iter number = 6, PSNR x= 31.411229,  PSNR w= 31.409881
+iter number = 7, PSNR x= 31.417083,  PSNR w= 31.414275
+iter number = 8, PSNR x= 31.422049,  PSNR w= 31.424070
+iter number = 9, PSNR x= 31.425983,  PSNR w= 31.424162
+iter number = 10, PSNR x= 31.429045,  PSNR w= 31.431517
+iter number = 11, PSNR x= 31.431254,  PSNR w= 31.433011
+iter number = 12, PSNR x= 31.432817,  PSNR w= 31.438289
+iter number = 13, PSNR x= 31.433824,  PSNR w= 31.438798
+---------------------the Threshold:60
+iter number = 1, PSNR x= 31.373571,  PSNR w= 31.510905
+iter number = 2, PSNR x= 31.382652,  PSNR w= 31.385175
+iter number = 3, PSNR x= 31.392654,  PSNR w= 31.411638
+iter number = 4, PSNR x= 31.402461,  PSNR w= 31.403234
+iter number = 5, PSNR x= 31.411712,  PSNR w= 31.414548
+iter number = 6, PSNR x= 31.419940,  PSNR w= 31.417045
+iter number = 7, PSNR x= 31.427062,  PSNR w= 31.428499
+iter number = 8, PSNR x= 31.432864,  PSNR w= 31.430210
+iter number = 9, PSNR x= 31.437392,  PSNR w= 31.437319
+iter number = 10, PSNR x= 31.440695,  PSNR w= 31.441237
+iter number = 11, PSNR x= 31.443007,  PSNR w= 31.448657
+iter number = 12, PSNR x= 31.444392,  PSNR w= 31.447056
+iter number = 13, PSNR x= 31.445181,  PSNR w= 31.454070
+---------------------the Threshold:70
+iter number = 1, PSNR x= 31.374476,  PSNR w= 31.526510
+iter number = 2, PSNR x= 31.384848,  PSNR w= 31.394572
+iter number = 3, PSNR x= 31.396294,  PSNR w= 31.418275
+iter number = 4, PSNR x= 31.407545,  PSNR w= 31.410071
+iter number = 5, PSNR x= 31.418257,  PSNR w= 31.425223
+iter number = 6, PSNR x= 31.427711,  PSNR w= 31.422250
+iter number = 7, PSNR x= 31.435853,  PSNR w= 31.437356
+iter number = 8, PSNR x= 31.442438,  PSNR w= 31.439824
+iter number = 9, PSNR x= 31.447509,  PSNR w= 31.447321
+iter number = 10, PSNR x= 31.451111,  PSNR w= 31.451353
+iter number = 11, PSNR x= 31.453455,  PSNR w= 31.457304
+iter number = 12, PSNR x= 31.454752,  PSNR w= 31.460065
+iter number = 13, PSNR x= 31.455346,  PSNR w= 31.465709
+---------------------the Threshold:80
+iter number = 1, PSNR x= 31.375373,  PSNR w= 31.541383
+iter number = 2, PSNR x= 31.386952,  PSNR w= 31.401778
+iter number = 3, PSNR x= 31.399653,  PSNR w= 31.420413
+iter number = 4, PSNR x= 31.412318,  PSNR w= 31.421605
+iter number = 5, PSNR x= 31.424288,  PSNR w= 31.429969
+iter number = 6, PSNR x= 31.434952,  PSNR w= 31.432760
+iter number = 7, PSNR x= 31.444003,  PSNR w= 31.441859
+iter number = 8, PSNR x= 31.451411,  PSNR w= 31.453297
+iter number = 9, PSNR x= 31.456901,  PSNR w= 31.450713
+iter number = 10, PSNR x= 31.460799,  PSNR w= 31.464274
+iter number = 11, PSNR x= 31.463211,  PSNR w= 31.466394
+iter number = 12, PSNR x= 31.464466,  PSNR w= 31.470697
+iter number = 13, PSNR x= 31.464831,  PSNR w= 31.473571
+---------------------the Threshold:90
+iter number = 1, PSNR x= 31.376102,  PSNR w= 31.551636
+iter number = 2, PSNR x= 31.388877,  PSNR w= 31.413824
+iter number = 3, PSNR x= 31.402809,  PSNR w= 31.423560
+iter number = 4, PSNR x= 31.416810,  PSNR w= 31.430505
+iter number = 5, PSNR x= 31.429876,  PSNR w= 31.430459
+iter number = 6, PSNR x= 31.441608,  PSNR w= 31.443975
+iter number = 7, PSNR x= 31.451558,  PSNR w= 31.449980
+iter number = 8, PSNR x= 31.459556,  PSNR w= 31.457001
+iter number = 9, PSNR x= 31.465479,  PSNR w= 31.462149
+iter number = 10, PSNR x= 31.469669,  PSNR w= 31.475669
+iter number = 11, PSNR x= 31.472105,  PSNR w= 31.472808
+iter number = 12, PSNR x= 31.473364,  PSNR w= 31.485111
+iter number = 13, PSNR x= 31.473528,  PSNR w= 31.480180
+---------------------the Threshold:100
+iter number = 1, PSNR x= 31.376796,  PSNR w= 31.560155
+iter number = 2, PSNR x= 31.390649,  PSNR w= 31.422706
+iter number = 3, PSNR x= 31.405846,  PSNR w= 31.431670
+iter number = 4, PSNR x= 31.421087,  PSNR w= 31.434294
+iter number = 5, PSNR x= 31.435324,  PSNR w= 31.436416
+iter number = 6, PSNR x= 31.448126,  PSNR w= 31.451974
+iter number = 7, PSNR x= 31.458810,  PSNR w= 31.450909
+iter number = 8, PSNR x= 31.467444,  PSNR w= 31.468630
+iter number = 9, PSNR x= 31.473818,  PSNR w= 31.470584
+iter number = 10, PSNR x= 31.478199,  PSNR w= 31.481352
+iter number = 11, PSNR x= 31.480683,  PSNR w= 31.482693
+iter number = 12, PSNR x= 31.481752,  PSNR w= 31.491624
+iter number = 13, PSNR x= 31.481774,  PSNR w= 31.494876
+---------------------the Threshold:110
+iter number = 1, PSNR x= 31.377442,  PSNR w= 31.567068
+iter number = 2, PSNR x= 31.392167,  PSNR w= 31.426512
+iter number = 3, PSNR x= 31.408432,  PSNR w= 31.439251
+iter number = 4, PSNR x= 31.424830,  PSNR w= 31.441507
+iter number = 5, PSNR x= 31.440133,  PSNR w= 31.441183
+iter number = 6, PSNR x= 31.453945,  PSNR w= 31.459034
+iter number = 7, PSNR x= 31.465481,  PSNR w= 31.458631
+iter number = 8, PSNR x= 31.474735,  PSNR w= 31.474407
+iter number = 9, PSNR x= 31.481578,  PSNR w= 31.479755
+iter number = 10, PSNR x= 31.486146,  PSNR w= 31.486996
+iter number = 11, PSNR x= 31.488693,  PSNR w= 31.492556
+iter number = 12, PSNR x= 31.489593,  PSNR w= 31.497046
+iter number = 13, PSNR x= 31.489354,  PSNR w= 31.503603
+---------------------the Threshold:120
+iter number = 1, PSNR x= 31.378134,  PSNR w= 31.572558
+iter number = 2, PSNR x= 31.393648,  PSNR w= 31.425671
+iter number = 3, PSNR x= 31.410969,  PSNR w= 31.449948
+iter number = 4, PSNR x= 31.428317,  PSNR w= 31.443686
+iter number = 5, PSNR x= 31.444620,  PSNR w= 31.449286
+iter number = 6, PSNR x= 31.459153,  PSNR w= 31.461403
+iter number = 7, PSNR x= 31.471339,  PSNR w= 31.467735
+iter number = 8, PSNR x= 31.480968,  PSNR w= 31.478733
+iter number = 9, PSNR x= 31.487978,  PSNR w= 31.486750
+iter number = 10, PSNR x= 31.492502,  PSNR w= 31.493087
+iter number = 11, PSNR x= 31.494896,  PSNR w= 31.501480
+iter number = 12, PSNR x= 31.495531,  PSNR w= 31.504805
+iter number = 13, PSNR x= 31.494954,  PSNR w= 31.510724
+---------------------the Threshold:130
+iter number = 1, PSNR x= 31.378673,  PSNR w= 31.574983
+iter number = 2, PSNR x= 31.394972,  PSNR w= 31.431136
+iter number = 3, PSNR x= 31.413203,  PSNR w= 31.454978
+iter number = 4, PSNR x= 31.431549,  PSNR w= 31.450883
+iter number = 5, PSNR x= 31.448839,  PSNR w= 31.457404
+iter number = 6, PSNR x= 31.464124,  PSNR w= 31.463067
+iter number = 7, PSNR x= 31.476906,  PSNR w= 31.472979
+iter number = 8, PSNR x= 31.486991,  PSNR w= 31.486483
+iter number = 9, PSNR x= 31.494202,  PSNR w= 31.490838
+iter number = 10, PSNR x= 31.498794,  PSNR w= 31.501237
+iter number = 11, PSNR x= 31.500996,  PSNR w= 31.504386
+iter number = 12, PSNR x= 31.501412,  PSNR w= 31.514373
+iter number = 13, PSNR x= 31.500495,  PSNR w= 31.516418
+---------------------the Threshold:140
+iter number = 1, PSNR x= 31.379184,  PSNR w= 31.575801
+iter number = 2, PSNR x= 31.396252,  PSNR w= 31.437194
+iter number = 3, PSNR x= 31.415408,  PSNR w= 31.461120
+iter number = 4, PSNR x= 31.434591,  PSNR w= 31.452053
+iter number = 5, PSNR x= 31.452708,  PSNR w= 31.464273
+iter number = 6, PSNR x= 31.468744,  PSNR w= 31.469935
+iter number = 7, PSNR x= 31.482166,  PSNR w= 31.480657
+iter number = 8, PSNR x= 31.492611,  PSNR w= 31.488886
+iter number = 9, PSNR x= 31.500130,  PSNR w= 31.501285
+iter number = 10, PSNR x= 31.504682,  PSNR w= 31.501822
+iter number = 11, PSNR x= 31.506820,  PSNR w= 31.515090
+iter number = 12, PSNR x= 31.506904,  PSNR w= 31.516003
+iter number = 13, PSNR x= 31.505574,  PSNR w= 31.522628
+---------------------the Threshold:150
+iter number = 1, PSNR x= 31.379762,  PSNR w= 31.577129
+iter number = 2, PSNR x= 31.397617,  PSNR w= 31.440931
+iter number = 3, PSNR x= 31.417449,  PSNR w= 31.458370
+iter number = 4, PSNR x= 31.437462,  PSNR w= 31.460905
+iter number = 5, PSNR x= 31.456136,  PSNR w= 31.461234
+iter number = 6, PSNR x= 31.472873,  PSNR w= 31.481481
+iter number = 7, PSNR x= 31.486603,  PSNR w= 31.477601
+iter number = 8, PSNR x= 31.497378,  PSNR w= 31.499951
+iter number = 9, PSNR x= 31.504813,  PSNR w= 31.498529
+iter number = 10, PSNR x= 31.509353,  PSNR w= 31.514545
+iter number = 11, PSNR x= 31.511146,  PSNR w= 31.513798
+iter number = 12, PSNR x= 31.510890,  PSNR w= 31.524469
+iter number = 13, PSNR x= 31.509083,  PSNR w= 31.525174
+---------------------the Threshold:160
+iter number = 1, PSNR x= 31.380139,  PSNR w= 31.571733
+iter number = 2, PSNR x= 31.398673,  PSNR w= 31.446989
+iter number = 3, PSNR x= 31.419262,  PSNR w= 31.461654
+iter number = 4, PSNR x= 31.439991,  PSNR w= 31.462867
+iter number = 5, PSNR x= 31.459481,  PSNR w= 31.471812
+iter number = 6, PSNR x= 31.476747,  PSNR w= 31.481541
+iter number = 7, PSNR x= 31.490928,  PSNR w= 31.484628
+iter number = 8, PSNR x= 31.501828,  PSNR w= 31.498913
+iter number = 9, PSNR x= 31.509297,  PSNR w= 31.505835
+iter number = 10, PSNR x= 31.513570,  PSNR w= 31.513977
+iter number = 11, PSNR x= 31.515011,  PSNR w= 31.519970
+iter number = 12, PSNR x= 31.514271,  PSNR w= 31.528182
+iter number = 13, PSNR x= 31.511988,  PSNR w= 31.532634
+---------------------the Threshold:170
+iter number = 1, PSNR x= 31.380177,  PSNR w= 31.552770
+iter number = 2, PSNR x= 31.399338,  PSNR w= 31.463678
+iter number = 3, PSNR x= 31.420578,  PSNR w= 31.462711
+iter number = 4, PSNR x= 31.442085,  PSNR w= 31.471509
+iter number = 5, PSNR x= 31.462143,  PSNR w= 31.469790
+iter number = 6, PSNR x= 31.479873,  PSNR w= 31.485353
+iter number = 7, PSNR x= 31.494348,  PSNR w= 31.487866
+iter number = 8, PSNR x= 31.505485,  PSNR w= 31.507913
+iter number = 9, PSNR x= 31.512936,  PSNR w= 31.506904
+iter number = 10, PSNR x= 31.517165,  PSNR w= 31.522947
+iter number = 11, PSNR x= 31.518364,  PSNR w= 31.521335
+iter number = 12, PSNR x= 31.517265,  PSNR w= 31.531654
+iter number = 13, PSNR x= 31.514503,  PSNR w= 31.534385
+---------------------the Threshold:180
+iter number = 1, PSNR x= 31.380200,  PSNR w= 31.529126
+iter number = 2, PSNR x= 31.399772,  PSNR w= 31.472901
+iter number = 3, PSNR x= 31.421850,  PSNR w= 31.477420
+iter number = 4, PSNR x= 31.443933,  PSNR w= 31.465549
+iter number = 5, PSNR x= 31.464679,  PSNR w= 31.479076
+iter number = 6, PSNR x= 31.482857,  PSNR w= 31.483926
+iter number = 7, PSNR x= 31.497807,  PSNR w= 31.496922
+iter number = 8, PSNR x= 31.509107,  PSNR w= 31.505369
+iter number = 9, PSNR x= 31.516634,  PSNR w= 31.511940
+iter number = 10, PSNR x= 31.520573,  PSNR w= 31.518472
+iter number = 11, PSNR x= 31.521525,  PSNR w= 31.530607
+iter number = 12, PSNR x= 31.519880,  PSNR w= 31.528429
+iter number = 13, PSNR x= 31.516593,  PSNR w= 31.540908
+---------------------the Threshold:190
+iter number = 1, PSNR x= 31.380378,  PSNR w= 31.521396
+iter number = 2, PSNR x= 31.400571,  PSNR w= 31.485763
+iter number = 3, PSNR x= 31.422993,  PSNR w= 31.467435
+iter number = 4, PSNR x= 31.445797,  PSNR w= 31.481163
+iter number = 5, PSNR x= 31.466997,  PSNR w= 31.473342
+iter number = 6, PSNR x= 31.485591,  PSNR w= 31.488718
+iter number = 7, PSNR x= 31.500833,  PSNR w= 31.499980
+iter number = 8, PSNR x= 31.512165,  PSNR w= 31.503886
+iter number = 9, PSNR x= 31.519658,  PSNR w= 31.519008
+iter number = 10, PSNR x= 31.523399,  PSNR w= 31.522330
+iter number = 11, PSNR x= 31.523844,  PSNR w= 31.528283
+iter number = 12, PSNR x= 31.521586,  PSNR w= 31.531230
+iter number = 13, PSNR x= 31.517593,  PSNR w= 31.542996
+---------------------the Threshold:200
+iter number = 1, PSNR x= 31.380515,  PSNR w= 31.511176
+iter number = 2, PSNR x= 31.401220,  PSNR w= 31.495297
+iter number = 3, PSNR x= 31.424315,  PSNR w= 31.473581
+iter number = 4, PSNR x= 31.447522,  PSNR w= 31.475256
+iter number = 5, PSNR x= 31.469244,  PSNR w= 31.483678
+iter number = 6, PSNR x= 31.488034,  PSNR w= 31.484491
+iter number = 7, PSNR x= 31.503439,  PSNR w= 31.507664
+iter number = 8, PSNR x= 31.514616,  PSNR w= 31.502324
+iter number = 9, PSNR x= 31.521999,  PSNR w= 31.528669
+iter number = 10, PSNR x= 31.525106,  PSNR w= 31.511429
+iter number = 11, PSNR x= 31.525111,  PSNR w= 31.541558
+iter number = 12, PSNR x= 31.522075,  PSNR w= 31.525133
+iter number = 13, PSNR x= 31.517407,  PSNR w= 31.549033
+---------------------the Threshold:210
+iter number = 1, PSNR x= 31.380613,  PSNR w= 31.501576
+iter number = 2, PSNR x= 31.401793,  PSNR w= 31.503781
+iter number = 3, PSNR x= 31.425250,  PSNR w= 31.468797
+iter number = 4, PSNR x= 31.448965,  PSNR w= 31.482465
+iter number = 5, PSNR x= 31.470903,  PSNR w= 31.479418
+iter number = 6, PSNR x= 31.490104,  PSNR w= 31.498716
+iter number = 7, PSNR x= 31.505342,  PSNR w= 31.494590
+iter number = 8, PSNR x= 31.516543,  PSNR w= 31.517148
+iter number = 9, PSNR x= 31.523389,  PSNR w= 31.516375
+iter number = 10, PSNR x= 31.526205,  PSNR w= 31.526697
+iter number = 11, PSNR x= 31.525335,  PSNR w= 31.526055
+iter number = 12, PSNR x= 31.521658,  PSNR w= 31.535735
+iter number = 13, PSNR x= 31.515933,  PSNR w= 31.537110
+---------------------the Threshold:220
+iter number = 1, PSNR x= 31.380761,  PSNR w= 31.488565
+iter number = 2, PSNR x= 31.402295,  PSNR w= 31.504640
+iter number = 3, PSNR x= 31.426115,  PSNR w= 31.469128
+iter number = 4, PSNR x= 31.450259,  PSNR w= 31.487611
+iter number = 5, PSNR x= 31.472487,  PSNR w= 31.479248
+iter number = 6, PSNR x= 31.491824,  PSNR w= 31.498846
+iter number = 7, PSNR x= 31.507155,  PSNR w= 31.500363
+iter number = 8, PSNR x= 31.518120,  PSNR w= 31.511558
+iter number = 9, PSNR x= 31.524565,  PSNR w= 31.518065
+iter number = 10, PSNR x= 31.526632,  PSNR w= 31.519593
+iter number = 11, PSNR x= 31.525033,  PSNR w= 31.532306
+iter number = 12, PSNR x= 31.520628,  PSNR w= 31.540914
+iter number = 13, PSNR x= 31.514082,  PSNR w= 31.536853
+---------------------the Threshold:230
+iter number = 1, PSNR x= 31.380818,  PSNR w= 31.473636
+iter number = 2, PSNR x= 31.402616,  PSNR w= 31.508956
+iter number = 3, PSNR x= 31.426856,  PSNR w= 31.475460
+iter number = 4, PSNR x= 31.451319,  PSNR w= 31.487958
+iter number = 5, PSNR x= 31.473921,  PSNR w= 31.485646
+iter number = 6, PSNR x= 31.493194,  PSNR w= 31.490483
+iter number = 7, PSNR x= 31.508653,  PSNR w= 31.514273
+iter number = 8, PSNR x= 31.519398,  PSNR w= 31.509579
+iter number = 9, PSNR x= 31.525527,  PSNR w= 31.522010
+iter number = 10, PSNR x= 31.527118,  PSNR w= 31.523006
+iter number = 11, PSNR x= 31.524884,  PSNR w= 31.532949
+iter number = 12, PSNR x= 31.519595,  PSNR w= 31.536658
+iter number = 13, PSNR x= 31.512169,  PSNR w= 31.539504
+---------------------the Threshold:240
+iter number = 1, PSNR x= 31.380782,  PSNR w= 31.450384
+iter number = 2, PSNR x= 31.403045,  PSNR w= 31.519345
+iter number = 3, PSNR x= 31.427836,  PSNR w= 31.478300
+iter number = 4, PSNR x= 31.452759,  PSNR w= 31.486662
+iter number = 5, PSNR x= 31.475662,  PSNR w= 31.485130
+iter number = 6, PSNR x= 31.495345,  PSNR w= 31.501105
+iter number = 7, PSNR x= 31.510667,  PSNR w= 31.503356
+iter number = 8, PSNR x= 31.521093,  PSNR w= 31.510611
+iter number = 9, PSNR x= 31.526721,  PSNR w= 31.524071
+iter number = 10, PSNR x= 31.527529,  PSNR w= 31.519977
+iter number = 11, PSNR x= 31.524460,  PSNR w= 31.536624
+iter number = 12, PSNR x= 31.518112,  PSNR w= 31.531214
+iter number = 13, PSNR x= 31.509674,  PSNR w= 31.542279
+---------------------the Threshold:250
+iter number = 1, PSNR x= 31.380869,  PSNR w= 31.437610
+iter number = 2, PSNR x= 31.403398,  PSNR w= 31.521110
+iter number = 3, PSNR x= 31.428403,  PSNR w= 31.476516
+iter number = 4, PSNR x= 31.453671,  PSNR w= 31.493118
+iter number = 5, PSNR x= 31.476627,  PSNR w= 31.478518
+iter number = 6, PSNR x= 31.496429,  PSNR w= 31.508658
+iter number = 7, PSNR x= 31.511552,  PSNR w= 31.497876
+iter number = 8, PSNR x= 31.521915,  PSNR w= 31.521526
+iter number = 9, PSNR x= 31.526888,  PSNR w= 31.510463
+iter number = 10, PSNR x= 31.527473,  PSNR w= 31.540160
+iter number = 11, PSNR x= 31.523515,  PSNR w= 31.517284
+iter number = 12, PSNR x= 31.516564,  PSNR w= 31.544056
+iter number = 13, PSNR x= 31.507017,  PSNR w= 31.524923
+---------------------the Threshold:260
+iter number = 1, PSNR x= 31.381054,  PSNR w= 31.424654
+iter number = 2, PSNR x= 31.403715,  PSNR w= 31.516450
+iter number = 3, PSNR x= 31.429199,  PSNR w= 31.489960
+iter number = 4, PSNR x= 31.454736,  PSNR w= 31.488786
+iter number = 5, PSNR x= 31.477984,  PSNR w= 31.484273
+iter number = 6, PSNR x= 31.497890,  PSNR w= 31.507846
+iter number = 7, PSNR x= 31.512736,  PSNR w= 31.491419
+iter number = 8, PSNR x= 31.522760,  PSNR w= 31.525599
+iter number = 9, PSNR x= 31.527186,  PSNR w= 31.509294
+iter number = 10, PSNR x= 31.527101,  PSNR w= 31.540788
+iter number = 11, PSNR x= 31.522422,  PSNR w= 31.519866
+iter number = 12, PSNR x= 31.514534,  PSNR w= 31.539600
+iter number = 13, PSNR x= 31.504081,  PSNR w= 31.527023
+---------------------the Threshold:270
+iter number = 1, PSNR x= 31.381106,  PSNR w= 31.412805
+iter number = 2, PSNR x= 31.404048,  PSNR w= 31.519162
+iter number = 3, PSNR x= 31.429777,  PSNR w= 31.486669
+iter number = 4, PSNR x= 31.455602,  PSNR w= 31.493116
+iter number = 5, PSNR x= 31.478873,  PSNR w= 31.479557
+iter number = 6, PSNR x= 31.498677,  PSNR w= 31.509961
+iter number = 7, PSNR x= 31.513372,  PSNR w= 31.496289
+iter number = 8, PSNR x= 31.522938,  PSNR w= 31.521522
+iter number = 9, PSNR x= 31.526978,  PSNR w= 31.516902
+iter number = 10, PSNR x= 31.526046,  PSNR w= 31.530013
+iter number = 11, PSNR x= 31.520538,  PSNR w= 31.523397
+iter number = 12, PSNR x= 31.511704,  PSNR w= 31.535598
+iter number = 13, PSNR x= 31.500212,  PSNR w= 31.522264
+---------------------the Threshold:280
+iter number = 1, PSNR x= 31.381319,  PSNR w= 31.401970
+iter number = 2, PSNR x= 31.404356,  PSNR w= 31.508779
+iter number = 3, PSNR x= 31.430237,  PSNR w= 31.485800
+iter number = 4, PSNR x= 31.456233,  PSNR w= 31.495569
+iter number = 5, PSNR x= 31.479474,  PSNR w= 31.476029
+iter number = 6, PSNR x= 31.499282,  PSNR w= 31.516657
+iter number = 7, PSNR x= 31.513755,  PSNR w= 31.492909
+iter number = 8, PSNR x= 31.523065,  PSNR w= 31.526555
+iter number = 9, PSNR x= 31.526474,  PSNR w= 31.509280
+iter number = 10, PSNR x= 31.524950,  PSNR w= 31.535258
+iter number = 11, PSNR x= 31.518521,  PSNR w= 31.514624
+iter number = 12, PSNR x= 31.508787,  PSNR w= 31.538054
+iter number = 13, PSNR x= 31.496312,  PSNR w= 31.518238
+---------------------the Threshold:290
+iter number = 1, PSNR x= 31.381339,  PSNR w= 31.380401
+iter number = 2, PSNR x= 31.404702,  PSNR w= 31.513724
+iter number = 3, PSNR x= 31.430763,  PSNR w= 31.480403
+iter number = 4, PSNR x= 31.456929,  PSNR w= 31.496007
+iter number = 5, PSNR x= 31.480154,  PSNR w= 31.472019
+iter number = 6, PSNR x= 31.499846,  PSNR w= 31.515261
+iter number = 7, PSNR x= 31.514158,  PSNR w= 31.496373
+iter number = 8, PSNR x= 31.522888,  PSNR w= 31.516420
+iter number = 9, PSNR x= 31.525799,  PSNR w= 31.514912
+iter number = 10, PSNR x= 31.523216,  PSNR w= 31.518620
+iter number = 11, PSNR x= 31.516122,  PSNR w= 31.529100
+iter number = 12, PSNR x= 31.505041,  PSNR w= 31.514468
+iter number = 13, PSNR x= 31.491634,  PSNR w= 31.532349
+---------------------the Threshold:300
+iter number = 1, PSNR x= 31.381335,  PSNR w= 31.366963
+iter number = 2, PSNR x= 31.404676,  PSNR w= 31.509607
+iter number = 3, PSNR x= 31.430835,  PSNR w= 31.484362
+iter number = 4, PSNR x= 31.457187,  PSNR w= 31.499620
+iter number = 5, PSNR x= 31.480682,  PSNR w= 31.477141
+iter number = 6, PSNR x= 31.500252,  PSNR w= 31.506316
+iter number = 7, PSNR x= 31.514330,  PSNR w= 31.496261
+iter number = 8, PSNR x= 31.522460,  PSNR w= 31.509007
+iter number = 9, PSNR x= 31.524680,  PSNR w= 31.516556
+iter number = 10, PSNR x= 31.521358,  PSNR w= 31.520894
+iter number = 11, PSNR x= 31.513228,  PSNR w= 31.521514
+iter number = 12, PSNR x= 31.501224,  PSNR w= 31.519736
+iter number = 13, PSNR x= 31.486679,  PSNR w= 31.523061
+---------------------the Threshold:310
+iter number = 1, PSNR x= 31.381204,  PSNR w= 31.342016
+iter number = 2, PSNR x= 31.404625,  PSNR w= 31.511284
+iter number = 3, PSNR x= 31.430927,  PSNR w= 31.487603
+iter number = 4, PSNR x= 31.457306,  PSNR w= 31.498719
+iter number = 5, PSNR x= 31.480625,  PSNR w= 31.475826
+iter number = 6, PSNR x= 31.500122,  PSNR w= 31.514794
+iter number = 7, PSNR x= 31.513638,  PSNR w= 31.486409
+iter number = 8, PSNR x= 31.521585,  PSNR w= 31.525622
+iter number = 9, PSNR x= 31.522894,  PSNR w= 31.496775
+iter number = 10, PSNR x= 31.518801,  PSNR w= 31.528082
+iter number = 11, PSNR x= 31.509592,  PSNR w= 31.513131
+iter number = 12, PSNR x= 31.496636,  PSNR w= 31.523542
+iter number = 13, PSNR x= 31.481041,  PSNR w= 31.518713
+---------------------the Threshold:320
+iter number = 1, PSNR x= 31.381264,  PSNR w= 31.321173
+iter number = 2, PSNR x= 31.404932,  PSNR w= 31.514219
+iter number = 3, PSNR x= 31.431242,  PSNR w= 31.478759
+iter number = 4, PSNR x= 31.457972,  PSNR w= 31.513980
+iter number = 5, PSNR x= 31.481329,  PSNR w= 31.467431
+iter number = 6, PSNR x= 31.500368,  PSNR w= 31.502914
+iter number = 7, PSNR x= 31.513431,  PSNR w= 31.490923
+iter number = 8, PSNR x= 31.520728,  PSNR w= 31.524129
+iter number = 9, PSNR x= 31.521353,  PSNR w= 31.500498
+iter number = 10, PSNR x= 31.516181,  PSNR w= 31.517359
+iter number = 11, PSNR x= 31.506165,  PSNR w= 31.523673
+iter number = 12, PSNR x= 31.492089,  PSNR w= 31.511474
+iter number = 13, PSNR x= 31.475260,  PSNR w= 31.512359
+---------------------the Threshold:330
+iter number = 1, PSNR x= 31.381234,  PSNR w= 31.302485
+iter number = 2, PSNR x= 31.404819,  PSNR w= 31.510251
+iter number = 3, PSNR x= 31.431237,  PSNR w= 31.483896
+iter number = 4, PSNR x= 31.457730,  PSNR w= 31.502548
+iter number = 5, PSNR x= 31.481066,  PSNR w= 31.478142
+iter number = 6, PSNR x= 31.499848,  PSNR w= 31.499442
+iter number = 7, PSNR x= 31.512549,  PSNR w= 31.492841
+iter number = 8, PSNR x= 31.519177,  PSNR w= 31.519018
+iter number = 9, PSNR x= 31.519074,  PSNR w= 31.503208
+iter number = 10, PSNR x= 31.513252,  PSNR w= 31.523564
+iter number = 11, PSNR x= 31.502009,  PSNR w= 31.506283
+iter number = 12, PSNR x= 31.486927,  PSNR w= 31.519230
+iter number = 13, PSNR x= 31.468994,  PSNR w= 31.504782
+---------------------the Threshold:340
+iter number = 1, PSNR x= 31.381173,  PSNR w= 31.282417
+iter number = 2, PSNR x= 31.404610,  PSNR w= 31.504723
+iter number = 3, PSNR x= 31.431062,  PSNR w= 31.488756
+iter number = 4, PSNR x= 31.457296,  PSNR w= 31.492286
+iter number = 5, PSNR x= 31.480545,  PSNR w= 31.485908
+iter number = 6, PSNR x= 31.499173,  PSNR w= 31.498847
+iter number = 7, PSNR x= 31.511425,  PSNR w= 31.486210
+iter number = 8, PSNR x= 31.517490,  PSNR w= 31.518770
+iter number = 9, PSNR x= 31.516646,  PSNR w= 31.499126
+iter number = 10, PSNR x= 31.509840,  PSNR w= 31.516435
+iter number = 11, PSNR x= 31.497888,  PSNR w= 31.514675
+iter number = 12, PSNR x= 31.481714,  PSNR w= 31.502481
+iter number = 13, PSNR x= 31.462941,  PSNR w= 31.509630
+---------------------the Threshold:350
+iter number = 1, PSNR x= 31.380982,  PSNR w= 31.262501
+iter number = 2, PSNR x= 31.404488,  PSNR w= 31.511217
+iter number = 3, PSNR x= 31.431275,  PSNR w= 31.496536
+iter number = 4, PSNR x= 31.457349,  PSNR w= 31.477399
+iter number = 5, PSNR x= 31.480464,  PSNR w= 31.488630
+iter number = 6, PSNR x= 31.498552,  PSNR w= 31.489374
+iter number = 7, PSNR x= 31.510521,  PSNR w= 31.499889
+iter number = 8, PSNR x= 31.515914,  PSNR w= 31.509941
+iter number = 9, PSNR x= 31.514480,  PSNR w= 31.503999
+iter number = 10, PSNR x= 31.506820,  PSNR w= 31.509037
+iter number = 11, PSNR x= 31.494100,  PSNR w= 31.517299
+iter number = 12, PSNR x= 31.476827,  PSNR w= 31.489656
+iter number = 13, PSNR x= 31.456976,  PSNR w= 31.506108
+---------------------the Threshold:360
+iter number = 1, PSNR x= 31.381076,  PSNR w= 31.244089
+iter number = 2, PSNR x= 31.404476,  PSNR w= 31.499444
+iter number = 3, PSNR x= 31.431158,  PSNR w= 31.497159
+iter number = 4, PSNR x= 31.457042,  PSNR w= 31.475619
+iter number = 5, PSNR x= 31.479992,  PSNR w= 31.494308
+iter number = 6, PSNR x= 31.498030,  PSNR w= 31.496836
+iter number = 7, PSNR x= 31.509555,  PSNR w= 31.488943
+iter number = 8, PSNR x= 31.514196,  PSNR w= 31.502480
+iter number = 9, PSNR x= 31.512034,  PSNR w= 31.506614
+iter number = 10, PSNR x= 31.503282,  PSNR w= 31.498759
+iter number = 11, PSNR x= 31.489177,  PSNR w= 31.505808
+iter number = 12, PSNR x= 31.470928,  PSNR w= 31.501677
+iter number = 13, PSNR x= 31.449845,  PSNR w= 31.492377
+---------------------the Threshold:370
+iter number = 1, PSNR x= 31.381067,  PSNR w= 31.227770
+iter number = 2, PSNR x= 31.404226,  PSNR w= 31.487768
+iter number = 3, PSNR x= 31.430666,  PSNR w= 31.497493
+iter number = 4, PSNR x= 31.456341,  PSNR w= 31.479428
+iter number = 5, PSNR x= 31.479184,  PSNR w= 31.500514
+iter number = 6, PSNR x= 31.496508,  PSNR w= 31.479196
+iter number = 7, PSNR x= 31.507769,  PSNR w= 31.508967
+iter number = 8, PSNR x= 31.511528,  PSNR w= 31.483455
+iter number = 9, PSNR x= 31.508717,  PSNR w= 31.518204
+iter number = 10, PSNR x= 31.498672,  PSNR w= 31.473878
+iter number = 11, PSNR x= 31.483807,  PSNR w= 31.520863
+iter number = 12, PSNR x= 31.464381,  PSNR w= 31.480982
+iter number = 13, PSNR x= 31.442207,  PSNR w= 31.490145
+---------------------the Threshold:380
+iter number = 1, PSNR x= 31.380937,  PSNR w= 31.207771
+iter number = 2, PSNR x= 31.404065,  PSNR w= 31.486957
+iter number = 3, PSNR x= 31.430438,  PSNR w= 31.494959
+iter number = 4, PSNR x= 31.455931,  PSNR w= 31.475889
+iter number = 5, PSNR x= 31.478660,  PSNR w= 31.505783
+iter number = 6, PSNR x= 31.495632,  PSNR w= 31.473449
+iter number = 7, PSNR x= 31.506228,  PSNR w= 31.501203
+iter number = 8, PSNR x= 31.509383,  PSNR w= 31.487240
+iter number = 9, PSNR x= 31.505730,  PSNR w= 31.510773
+iter number = 10, PSNR x= 31.495076,  PSNR w= 31.484577
+iter number = 11, PSNR x= 31.478995,  PSNR w= 31.499661
+iter number = 12, PSNR x= 31.458140,  PSNR w= 31.472816
+iter number = 13, PSNR x= 31.434800,  PSNR w= 31.494058
+---------------------the Threshold:390
+iter number = 1, PSNR x= 31.380747,  PSNR w= 31.178250
+iter number = 2, PSNR x= 31.403865,  PSNR w= 31.488142
+iter number = 3, PSNR x= 31.429921,  PSNR w= 31.481971
+iter number = 4, PSNR x= 31.455288,  PSNR w= 31.483639
+iter number = 5, PSNR x= 31.477627,  PSNR w= 31.497779
+iter number = 6, PSNR x= 31.494285,  PSNR w= 31.478549
+iter number = 7, PSNR x= 31.504496,  PSNR w= 31.499236
+iter number = 8, PSNR x= 31.506890,  PSNR w= 31.476113
+iter number = 9, PSNR x= 31.502249,  PSNR w= 31.502519
+iter number = 10, PSNR x= 31.490507,  PSNR w= 31.479430
+iter number = 11, PSNR x= 31.473260,  PSNR w= 31.493640
+iter number = 12, PSNR x= 31.451652,  PSNR w= 31.482300
+iter number = 13, PSNR x= 31.427208,  PSNR w= 31.475299
+---------------------the Threshold:400
+iter number = 1, PSNR x= 31.380636,  PSNR w= 31.151426
+iter number = 2, PSNR x= 31.403624,  PSNR w= 31.483661
+iter number = 3, PSNR x= 31.429461,  PSNR w= 31.477744
+iter number = 4, PSNR x= 31.454734,  PSNR w= 31.491067
+iter number = 5, PSNR x= 31.476897,  PSNR w= 31.499537
+iter number = 6, PSNR x= 31.493181,  PSNR w= 31.475503
+iter number = 7, PSNR x= 31.502838,  PSNR w= 31.494947
+iter number = 8, PSNR x= 31.504456,  PSNR w= 31.472007
+iter number = 9, PSNR x= 31.498935,  PSNR w= 31.501171
+iter number = 10, PSNR x= 31.486319,  PSNR w= 31.481205
+iter number = 11, PSNR x= 31.467956,  PSNR w= 31.483462
+iter number = 12, PSNR x= 31.445221,  PSNR w= 31.481792
+iter number = 13, PSNR x= 31.419410,  PSNR w= 31.463588
+---------------------the Threshold:410
+iter number = 1, PSNR x= 31.380454,  PSNR w= 31.126444
+iter number = 2, PSNR x= 31.403333,  PSNR w= 31.481641
+iter number = 3, PSNR x= 31.429113,  PSNR w= 31.479360
+iter number = 4, PSNR x= 31.454377,  PSNR w= 31.493731
+iter number = 5, PSNR x= 31.476042,  PSNR w= 31.485011
+iter number = 6, PSNR x= 31.491942,  PSNR w= 31.482565
+iter number = 7, PSNR x= 31.500710,  PSNR w= 31.481887
+iter number = 8, PSNR x= 31.501747,  PSNR w= 31.482858
+iter number = 9, PSNR x= 31.495550,  PSNR w= 31.499643
+iter number = 10, PSNR x= 31.482100,  PSNR w= 31.475016
+iter number = 11, PSNR x= 31.462937,  PSNR w= 31.485146
+iter number = 12, PSNR x= 31.439098,  PSNR w= 31.468055
+iter number = 13, PSNR x= 31.412394,  PSNR w= 31.468805
+---------------------the Threshold:420
+iter number = 1, PSNR x= 31.380586,  PSNR w= 31.102854
+iter number = 2, PSNR x= 31.403453,  PSNR w= 31.469701
+iter number = 3, PSNR x= 31.429447,  PSNR w= 31.487370
+iter number = 4, PSNR x= 31.454326,  PSNR w= 31.473065
+iter number = 5, PSNR x= 31.475813,  PSNR w= 31.494145
+iter number = 6, PSNR x= 31.491148,  PSNR w= 31.474260
+iter number = 7, PSNR x= 31.499727,  PSNR w= 31.500850
+iter number = 8, PSNR x= 31.499863,  PSNR w= 31.465120
+iter number = 9, PSNR x= 31.492914,  PSNR w= 31.507384
+iter number = 10, PSNR x= 31.478353,  PSNR w= 31.465170
+iter number = 11, PSNR x= 31.458204,  PSNR w= 31.489200
+iter number = 12, PSNR x= 31.433178,  PSNR w= 31.459191
+iter number = 13, PSNR x= 31.405100,  PSNR w= 31.457788
+---------------------the Threshold:430
+iter number = 1, PSNR x= 31.380648,  PSNR w= 31.080229
+iter number = 2, PSNR x= 31.403119,  PSNR w= 31.447083
+iter number = 3, PSNR x= 31.429064,  PSNR w= 31.496442
+iter number = 4, PSNR x= 31.453908,  PSNR w= 31.472270
+iter number = 5, PSNR x= 31.475228,  PSNR w= 31.491624
+iter number = 6, PSNR x= 31.490412,  PSNR w= 31.475765
+iter number = 7, PSNR x= 31.498458,  PSNR w= 31.490618
+iter number = 8, PSNR x= 31.498039,  PSNR w= 31.466957
+iter number = 9, PSNR x= 31.490160,  PSNR w= 31.496906
+iter number = 10, PSNR x= 31.474680,  PSNR w= 31.465528
+iter number = 11, PSNR x= 31.453170,  PSNR w= 31.476732
+iter number = 12, PSNR x= 31.426781,  PSNR w= 31.455720
+iter number = 13, PSNR x= 31.397195,  PSNR w= 31.448521
+---------------------the Threshold:440
+iter number = 1, PSNR x= 31.380479,  PSNR w= 31.049657
+iter number = 2, PSNR x= 31.402947,  PSNR w= 31.449105
+iter number = 3, PSNR x= 31.428670,  PSNR w= 31.486794
+iter number = 4, PSNR x= 31.453341,  PSNR w= 31.475145
+iter number = 5, PSNR x= 31.474129,  PSNR w= 31.480933
+iter number = 6, PSNR x= 31.488784,  PSNR w= 31.480461
+iter number = 7, PSNR x= 31.496019,  PSNR w= 31.484040
+iter number = 8, PSNR x= 31.494995,  PSNR w= 31.476859
+iter number = 9, PSNR x= 31.486154,  PSNR w= 31.485441
+iter number = 10, PSNR x= 31.469716,  PSNR w= 31.466049
+iter number = 11, PSNR x= 31.447082,  PSNR w= 31.468686
+iter number = 12, PSNR x= 31.419377,  PSNR w= 31.445326
+iter number = 13, PSNR x= 31.388805,  PSNR w= 31.455451
+---------------------the Threshold:450
+iter number = 1, PSNR x= 31.380440,  PSNR w= 31.017491
+iter number = 2, PSNR x= 31.402679,  PSNR w= 31.436053
+iter number = 3, PSNR x= 31.428129,  PSNR w= 31.486079
+iter number = 4, PSNR x= 31.452585,  PSNR w= 31.480760
+iter number = 5, PSNR x= 31.473138,  PSNR w= 31.482823
+iter number = 6, PSNR x= 31.487205,  PSNR w= 31.468666
+iter number = 7, PSNR x= 31.493969,  PSNR w= 31.489054
+iter number = 8, PSNR x= 31.491977,  PSNR w= 31.462522
+iter number = 9, PSNR x= 31.482109,  PSNR w= 31.485826
+iter number = 10, PSNR x= 31.464472,  PSNR w= 31.460014
+iter number = 11, PSNR x= 31.440327,  PSNR w= 31.454928
+iter number = 12, PSNR x= 31.411601,  PSNR w= 31.457560
+iter number = 13, PSNR x= 31.379347,  PSNR w= 31.423020
+---------------------the Threshold:460
+iter number = 1, PSNR x= 31.380279,  PSNR w= 30.990463
+iter number = 2, PSNR x= 31.402147,  PSNR w= 31.424516
+iter number = 3, PSNR x= 31.427801,  PSNR w= 31.503143
+iter number = 4, PSNR x= 31.451886,  PSNR w= 31.460391
+iter number = 5, PSNR x= 31.472107,  PSNR w= 31.485991
+iter number = 6, PSNR x= 31.485633,  PSNR w= 31.465666
+iter number = 7, PSNR x= 31.491730,  PSNR w= 31.486682
+iter number = 8, PSNR x= 31.489035,  PSNR w= 31.463530
+iter number = 9, PSNR x= 31.478132,  PSNR w= 31.478275
+iter number = 10, PSNR x= 31.459183,  PSNR w= 31.450890
+iter number = 11, PSNR x= 31.434070,  PSNR w= 31.464474
+iter number = 12, PSNR x= 31.403662,  PSNR w= 31.430103
+iter number = 13, PSNR x= 31.370223,  PSNR w= 31.434595
+---------------------the Threshold:470
+iter number = 1, PSNR x= 31.380103,  PSNR w= 30.969723
+iter number = 2, PSNR x= 31.401902,  PSNR w= 31.424957
+iter number = 3, PSNR x= 31.427169,  PSNR w= 31.492413
+iter number = 4, PSNR x= 31.450928,  PSNR w= 31.461315
+iter number = 5, PSNR x= 31.470427,  PSNR w= 31.473459
+iter number = 6, PSNR x= 31.483763,  PSNR w= 31.485769
+iter number = 7, PSNR x= 31.488818,  PSNR w= 31.456481
+iter number = 8, PSNR x= 31.485570,  PSNR w= 31.480653
+iter number = 9, PSNR x= 31.473513,  PSNR w= 31.452646
+iter number = 10, PSNR x= 31.453602,  PSNR w= 31.456597
+iter number = 11, PSNR x= 31.427189,  PSNR w= 31.448151
+iter number = 12, PSNR x= 31.395876,  PSNR w= 31.437720
+iter number = 13, PSNR x= 31.361252,  PSNR w= 31.416272
+---------------------the Threshold:480
+iter number = 1, PSNR x= 31.379969,  PSNR w= 30.944262
+iter number = 2, PSNR x= 31.401673,  PSNR w= 31.423837
+iter number = 3, PSNR x= 31.426719,  PSNR w= 31.485972
+iter number = 4, PSNR x= 31.450369,  PSNR w= 31.468609
+iter number = 5, PSNR x= 31.469670,  PSNR w= 31.473877
+iter number = 6, PSNR x= 31.482409,  PSNR w= 31.476328
+iter number = 7, PSNR x= 31.486710,  PSNR w= 31.456841
+iter number = 8, PSNR x= 31.482186,  PSNR w= 31.464359
+iter number = 9, PSNR x= 31.468772,  PSNR w= 31.452090
+iter number = 10, PSNR x= 31.447809,  PSNR w= 31.464085
+iter number = 11, PSNR x= 31.420270,  PSNR w= 31.443038
+iter number = 12, PSNR x= 31.387694,  PSNR w= 31.426075
+iter number = 13, PSNR x= 31.352121,  PSNR w= 31.417886
+---------------------the Threshold:490
+iter number = 1, PSNR x= 31.379969,  PSNR w= 30.924780
+iter number = 2, PSNR x= 31.401402,  PSNR w= 31.410874
+iter number = 3, PSNR x= 31.426399,  PSNR w= 31.492224
+iter number = 4, PSNR x= 31.449633,  PSNR w= 31.456131
+iter number = 5, PSNR x= 31.468921,  PSNR w= 31.489097
+iter number = 6, PSNR x= 31.481161,  PSNR w= 31.460632
+iter number = 7, PSNR x= 31.485080,  PSNR w= 31.464934
+iter number = 8, PSNR x= 31.479696,  PSNR w= 31.449925
+iter number = 9, PSNR x= 31.465466,  PSNR w= 31.454198
+iter number = 10, PSNR x= 31.443655,  PSNR w= 31.463038
+iter number = 11, PSNR x= 31.414887,  PSNR w= 31.426873
+iter number = 12, PSNR x= 31.381287,  PSNR w= 31.430380
+iter number = 13, PSNR x= 31.344319,  PSNR w= 31.396799
+---------------------the Threshold:500
+iter number = 1, PSNR x= 31.379769,  PSNR w= 30.896700
+iter number = 2, PSNR x= 31.401254,  PSNR w= 31.415330
+iter number = 3, PSNR x= 31.425976,  PSNR w= 31.477825
+iter number = 4, PSNR x= 31.449284,  PSNR w= 31.468040
+iter number = 5, PSNR x= 31.468082,  PSNR w= 31.471554
+iter number = 6, PSNR x= 31.479596,  PSNR w= 31.455833
+iter number = 7, PSNR x= 31.482766,  PSNR w= 31.466461
+iter number = 8, PSNR x= 31.476642,  PSNR w= 31.451967
+iter number = 9, PSNR x= 31.461720,  PSNR w= 31.457578
+iter number = 10, PSNR x= 31.438219,  PSNR w= 31.427330
+iter number = 11, PSNR x= 31.408394,  PSNR w= 31.447154
+iter number = 12, PSNR x= 31.373440,  PSNR w= 31.412345
+iter number = 13, PSNR x= 31.335716,  PSNR w= 31.412626
+
+
+
+Initial PSNR = 31.365917
+---------------------the Threshold:0.011
+iter number = 1, PSNR x= 31.371736,  PSNR w= 31.450384
+iter number = 2, PSNR x= 31.380814,  PSNR w= 31.511878
+iter number = 3, PSNR x= 31.391607,  PSNR w= 31.462254
+iter number = 4, PSNR x= 31.403397,  PSNR w= 31.455579
+iter number = 5, PSNR x= 31.415623,  PSNR w= 31.449275
+iter number = 6, PSNR x= 31.427923,  PSNR w= 31.452701
+iter number = 7, PSNR x= 31.439838,  PSNR w= 31.442479
+iter number = 8, PSNR x= 31.451229,  PSNR w= 31.460310
+iter number = 9, PSNR x= 31.461829,  PSNR w= 31.460578
+iter number = 10, PSNR x= 31.471561,  PSNR w= 31.472575
+iter number = 11, PSNR x= 31.480144,  PSNR w= 31.464438
+iter number = 12, PSNR x= 31.487658,  PSNR w= 31.486214
+iter number = 13, PSNR x= 31.493962,  PSNR w= 31.483560
+---------------------the Threshold:0.012
+iter number = 1, PSNR x= 31.372254,  PSNR w= 31.450384
+iter number = 2, PSNR x= 31.382114,  PSNR w= 31.512006
+iter number = 3, PSNR x= 31.393807,  PSNR w= 31.464247
+iter number = 4, PSNR x= 31.406476,  PSNR w= 31.453574
+iter number = 5, PSNR x= 31.419624,  PSNR w= 31.459251
+iter number = 6, PSNR x= 31.432666,  PSNR w= 31.448167
+iter number = 7, PSNR x= 31.445341,  PSNR w= 31.460146
+iter number = 8, PSNR x= 31.457202,  PSNR w= 31.452256
+iter number = 9, PSNR x= 31.468099,  PSNR w= 31.464849
+iter number = 10, PSNR x= 31.477905,  PSNR w= 31.476685
+iter number = 11, PSNR x= 31.486437,  PSNR w= 31.477360
+iter number = 12, PSNR x= 31.493663,  PSNR w= 31.485611
+iter number = 13, PSNR x= 31.499559,  PSNR w= 31.493103
+---------------------the Threshold:0.013
+iter number = 1, PSNR x= 31.372770,  PSNR w= 31.450384
+iter number = 2, PSNR x= 31.383413,  PSNR w= 31.512801
+iter number = 3, PSNR x= 31.395979,  PSNR w= 31.464220
+iter number = 4, PSNR x= 31.409552,  PSNR w= 31.456825
+iter number = 5, PSNR x= 31.423502,  PSNR w= 31.457186
+iter number = 6, PSNR x= 31.437367,  PSNR w= 31.462388
+iter number = 7, PSNR x= 31.450478,  PSNR w= 31.445716
+iter number = 8, PSNR x= 31.462803,  PSNR w= 31.472972
+iter number = 9, PSNR x= 31.473969,  PSNR w= 31.470079
+iter number = 10, PSNR x= 31.483779,  PSNR w= 31.475606
+iter number = 11, PSNR x= 31.492153,  PSNR w= 31.486215
+iter number = 12, PSNR x= 31.498992,  PSNR w= 31.488929
+iter number = 13, PSNR x= 31.504345,  PSNR w= 31.500088
+---------------------the Threshold:0.014
+iter number = 1, PSNR x= 31.373284,  PSNR w= 31.450384
+iter number = 2, PSNR x= 31.384685,  PSNR w= 31.511990
+iter number = 3, PSNR x= 31.398109,  PSNR w= 31.465767
+iter number = 4, PSNR x= 31.412540,  PSNR w= 31.458020
+iter number = 5, PSNR x= 31.427305,  PSNR w= 31.460549
+iter number = 6, PSNR x= 31.441844,  PSNR w= 31.462886
+iter number = 7, PSNR x= 31.455518,  PSNR w= 31.454202
+iter number = 8, PSNR x= 31.468191,  PSNR w= 31.475297
+iter number = 9, PSNR x= 31.479421,  PSNR w= 31.469407
+iter number = 10, PSNR x= 31.489257,  PSNR w= 31.492612
+iter number = 11, PSNR x= 31.497297,  PSNR w= 31.479843
+iter number = 12, PSNR x= 31.503746,  PSNR w= 31.505008
+iter number = 13, PSNR x= 31.508461,  PSNR w= 31.498766
+---------------------the Threshold:0.015
+iter number = 1, PSNR x= 31.373796,  PSNR w= 31.450384
+iter number = 2, PSNR x= 31.385959,  PSNR w= 31.512219
+iter number = 3, PSNR x= 31.400227,  PSNR w= 31.466424
+iter number = 4, PSNR x= 31.415489,  PSNR w= 31.458905
+iter number = 5, PSNR x= 31.431064,  PSNR w= 31.466019
+iter number = 6, PSNR x= 31.446176,  PSNR w= 31.457394
+iter number = 7, PSNR x= 31.460300,  PSNR w= 31.461035
+iter number = 8, PSNR x= 31.473243,  PSNR w= 31.478907
+iter number = 9, PSNR x= 31.484612,  PSNR w= 31.479593
+iter number = 10, PSNR x= 31.494182,  PSNR w= 31.484155
+iter number = 11, PSNR x= 31.501977,  PSNR w= 31.501301
+iter number = 12, PSNR x= 31.507756,  PSNR w= 31.492427
+iter number = 13, PSNR x= 31.511804,  PSNR w= 31.513934
+---------------------the Threshold:0.016
+iter number = 1, PSNR x= 31.374307,  PSNR w= 31.450384
+iter number = 2, PSNR x= 31.387234,  PSNR w= 31.512915
+iter number = 3, PSNR x= 31.402336,  PSNR w= 31.466624
+iter number = 4, PSNR x= 31.418498,  PSNR w= 31.466062
+iter number = 5, PSNR x= 31.434766,  PSNR w= 31.460261
+iter number = 6, PSNR x= 31.450547,  PSNR w= 31.467575
+iter number = 7, PSNR x= 31.465143,  PSNR w= 31.464500
+iter number = 8, PSNR x= 31.478266,  PSNR w= 31.477534
+iter number = 9, PSNR x= 31.489638,  PSNR w= 31.487125
+iter number = 10, PSNR x= 31.498940,  PSNR w= 31.485996
+iter number = 11, PSNR x= 31.506297,  PSNR w= 31.507108
+iter number = 12, PSNR x= 31.511473,  PSNR w= 31.498102
+iter number = 13, PSNR x= 31.514661,  PSNR w= 31.510867
+---------------------the Threshold:0.017
+iter number = 1, PSNR x= 31.374815,  PSNR w= 31.450384
+iter number = 2, PSNR x= 31.388520,  PSNR w= 31.514712
+iter number = 3, PSNR x= 31.404424,  PSNR w= 31.465023
+iter number = 4, PSNR x= 31.421390,  PSNR w= 31.469078
+iter number = 5, PSNR x= 31.438393,  PSNR w= 31.464783
+iter number = 6, PSNR x= 31.454735,  PSNR w= 31.470838
+iter number = 7, PSNR x= 31.469734,  PSNR w= 31.470085
+iter number = 8, PSNR x= 31.482999,  PSNR w= 31.478184
+iter number = 9, PSNR x= 31.494278,  PSNR w= 31.489792
+iter number = 10, PSNR x= 31.503343,  PSNR w= 31.495503
+iter number = 11, PSNR x= 31.510027,  PSNR w= 31.496741
+iter number = 12, PSNR x= 31.514512,  PSNR w= 31.511228
+iter number = 13, PSNR x= 31.516759,  PSNR w= 31.507194
+---------------------the Threshold:0.018
+iter number = 1, PSNR x= 31.375322,  PSNR w= 31.450384
+iter number = 2, PSNR x= 31.389748,  PSNR w= 31.513617
+iter number = 3, PSNR x= 31.406457,  PSNR w= 31.467454
+iter number = 4, PSNR x= 31.424220,  PSNR w= 31.471662
+iter number = 5, PSNR x= 31.441884,  PSNR w= 31.465216
+iter number = 6, PSNR x= 31.458615,  PSNR w= 31.466982
+iter number = 7, PSNR x= 31.473922,  PSNR w= 31.481677
+iter number = 8, PSNR x= 31.487208,  PSNR w= 31.479337
+iter number = 9, PSNR x= 31.498291,  PSNR w= 31.494542
+iter number = 10, PSNR x= 31.506910,  PSNR w= 31.497269
+iter number = 11, PSNR x= 31.513041,  PSNR w= 31.504835
+iter number = 12, PSNR x= 31.516665,  PSNR w= 31.505773
+iter number = 13, PSNR x= 31.518208,  PSNR w= 31.526026
+---------------------the Threshold:0.019
+iter number = 1, PSNR x= 31.375828,  PSNR w= 31.450384
+iter number = 2, PSNR x= 31.390987,  PSNR w= 31.513768
+iter number = 3, PSNR x= 31.408499,  PSNR w= 31.469212
+iter number = 4, PSNR x= 31.427015,  PSNR w= 31.472296
+iter number = 5, PSNR x= 31.445413,  PSNR w= 31.472688
+iter number = 6, PSNR x= 31.462584,  PSNR w= 31.463095
+iter number = 7, PSNR x= 31.478192,  PSNR w= 31.488343
+iter number = 8, PSNR x= 31.491523,  PSNR w= 31.482516
+iter number = 9, PSNR x= 31.502334,  PSNR w= 31.494331
+iter number = 10, PSNR x= 31.510465,  PSNR w= 31.501694
+iter number = 11, PSNR x= 31.515901,  PSNR w= 31.509015
+iter number = 12, PSNR x= 31.518715,  PSNR w= 31.511707
+iter number = 13, PSNR x= 31.519351,  PSNR w= 31.528575
+---------------------the Threshold:0.02
+iter number = 1, PSNR x= 31.376331,  PSNR w= 31.450384
+iter number = 2, PSNR x= 31.392240,  PSNR w= 31.514977
+iter number = 3, PSNR x= 31.410510,  PSNR w= 31.468091
+iter number = 4, PSNR x= 31.429743,  PSNR w= 31.474256
+iter number = 5, PSNR x= 31.448761,  PSNR w= 31.476564
+iter number = 6, PSNR x= 31.466347,  PSNR w= 31.466059
+iter number = 7, PSNR x= 31.481999,  PSNR w= 31.482195
+iter number = 8, PSNR x= 31.495336,  PSNR w= 31.495131
+iter number = 9, PSNR x= 31.505819,  PSNR w= 31.492438
+iter number = 10, PSNR x= 31.513553,  PSNR w= 31.511772
+iter number = 11, PSNR x= 31.518165,  PSNR w= 31.500027
+iter number = 12, PSNR x= 31.520266,  PSNR w= 31.527757
+iter number = 13, PSNR x= 31.519967,  PSNR w= 31.524166
+---------------------the Threshold:0.021
+iter number = 1, PSNR x= 31.376832,  PSNR w= 31.450384
+iter number = 2, PSNR x= 31.393459,  PSNR w= 31.514847
+iter number = 3, PSNR x= 31.412492,  PSNR w= 31.469455
+iter number = 4, PSNR x= 31.432435,  PSNR w= 31.475884
+iter number = 5, PSNR x= 31.452022,  PSNR w= 31.478657
+iter number = 6, PSNR x= 31.470021,  PSNR w= 31.471133
+iter number = 7, PSNR x= 31.485793,  PSNR w= 31.482294
+iter number = 8, PSNR x= 31.498956,  PSNR w= 31.495305
+iter number = 9, PSNR x= 31.509129,  PSNR w= 31.501370
+iter number = 10, PSNR x= 31.516156,  PSNR w= 31.506164
+iter number = 11, PSNR x= 31.520188,  PSNR w= 31.517627
+iter number = 12, PSNR x= 31.521373,  PSNR w= 31.519920
+iter number = 13, PSNR x= 31.520042,  PSNR w= 31.522665
+---------------------the Threshold:0.022
+iter number = 1, PSNR x= 31.377332,  PSNR w= 31.450384
+iter number = 2, PSNR x= 31.394713,  PSNR w= 31.516852
+iter number = 3, PSNR x= 31.414492,  PSNR w= 31.468405
+iter number = 4, PSNR x= 31.435133,  PSNR w= 31.478498
+iter number = 5, PSNR x= 31.455175,  PSNR w= 31.475486
+iter number = 6, PSNR x= 31.473493,  PSNR w= 31.476896
+iter number = 7, PSNR x= 31.489524,  PSNR w= 31.494041
+iter number = 8, PSNR x= 31.502486,  PSNR w= 31.488624
+iter number = 9, PSNR x= 31.512242,  PSNR w= 31.505005
+iter number = 10, PSNR x= 31.518598,  PSNR w= 31.507179
+iter number = 11, PSNR x= 31.521793,  PSNR w= 31.520417
+iter number = 12, PSNR x= 31.522169,  PSNR w= 31.528240
+iter number = 13, PSNR x= 31.519894,  PSNR w= 31.521174
+---------------------the Threshold:0.023
+iter number = 1, PSNR x= 31.377830,  PSNR w= 31.450384
+iter number = 2, PSNR x= 31.395921,  PSNR w= 31.517052
+iter number = 3, PSNR x= 31.416454,  PSNR w= 31.470224
+iter number = 4, PSNR x= 31.437780,  PSNR w= 31.480173
+iter number = 5, PSNR x= 31.458281,  PSNR w= 31.474550
+iter number = 6, PSNR x= 31.476985,  PSNR w= 31.485937
+iter number = 7, PSNR x= 31.492890,  PSNR w= 31.484793
+iter number = 8, PSNR x= 31.505539,  PSNR w= 31.495379
+iter number = 9, PSNR x= 31.514759,  PSNR w= 31.508290
+iter number = 10, PSNR x= 31.520473,  PSNR w= 31.514515
+iter number = 11, PSNR x= 31.522819,  PSNR w= 31.519791
+iter number = 12, PSNR x= 31.522235,  PSNR w= 31.529447
+iter number = 13, PSNR x= 31.519097,  PSNR w= 31.528600
+---------------------the Threshold:0.024
+iter number = 1, PSNR x= 31.378327,  PSNR w= 31.450384
+iter number = 2, PSNR x= 31.397122,  PSNR w= 31.517173
+iter number = 3, PSNR x= 31.418417,  PSNR w= 31.472921
+iter number = 4, PSNR x= 31.440349,  PSNR w= 31.478283
+iter number = 5, PSNR x= 31.461328,  PSNR w= 31.478722
+iter number = 6, PSNR x= 31.480267,  PSNR w= 31.487850
+iter number = 7, PSNR x= 31.496241,  PSNR w= 31.492104
+iter number = 8, PSNR x= 31.508694,  PSNR w= 31.499332
+iter number = 9, PSNR x= 31.517338,  PSNR w= 31.506095
+iter number = 10, PSNR x= 31.522396,  PSNR w= 31.522716
+iter number = 11, PSNR x= 31.523982,  PSNR w= 31.523971
+iter number = 12, PSNR x= 31.522251,  PSNR w= 31.518085
+iter number = 13, PSNR x= 31.518309,  PSNR w= 31.544419
+---------------------the Threshold:0.025
+iter number = 1, PSNR x= 31.378821,  PSNR w= 31.450384
+iter number = 2, PSNR x= 31.398327,  PSNR w= 31.517818
+iter number = 3, PSNR x= 31.420350,  PSNR w= 31.473771
+iter number = 4, PSNR x= 31.442902,  PSNR w= 31.478910
+iter number = 5, PSNR x= 31.464270,  PSNR w= 31.478655
+iter number = 6, PSNR x= 31.483508,  PSNR w= 31.495695
+iter number = 7, PSNR x= 31.499427,  PSNR w= 31.491598
+iter number = 8, PSNR x= 31.511579,  PSNR w= 31.502946
+iter number = 9, PSNR x= 31.519695,  PSNR w= 31.509467
+iter number = 10, PSNR x= 31.523924,  PSNR w= 31.520034
+iter number = 11, PSNR x= 31.524569,  PSNR w= 31.527021
+iter number = 12, PSNR x= 31.522008,  PSNR w= 31.526805
+iter number = 13, PSNR x= 31.516997,  PSNR w= 31.535206
+---------------------the Threshold:0.026
+iter number = 1, PSNR x= 31.379314,  PSNR w= 31.450384
+iter number = 2, PSNR x= 31.399520,  PSNR w= 31.518312
+iter number = 3, PSNR x= 31.422193,  PSNR w= 31.472332
+iter number = 4, PSNR x= 31.445394,  PSNR w= 31.484215
+iter number = 5, PSNR x= 31.467215,  PSNR w= 31.480606
+iter number = 6, PSNR x= 31.486518,  PSNR w= 31.492183
+iter number = 7, PSNR x= 31.502319,  PSNR w= 31.497321
+iter number = 8, PSNR x= 31.514145,  PSNR w= 31.507196
+iter number = 9, PSNR x= 31.521658,  PSNR w= 31.510295
+iter number = 10, PSNR x= 31.525164,  PSNR w= 31.524891
+iter number = 11, PSNR x= 31.524859,  PSNR w= 31.524830
+iter number = 12, PSNR x= 31.521288,  PSNR w= 31.527456
+iter number = 13, PSNR x= 31.515513,  PSNR w= 31.544253
+---------------------the Threshold:0.027
+iter number = 1, PSNR x= 31.379805,  PSNR w= 31.450384
+iter number = 2, PSNR x= 31.400704,  PSNR w= 31.518683
+iter number = 3, PSNR x= 31.424116,  PSNR w= 31.475106
+iter number = 4, PSNR x= 31.447980,  PSNR w= 31.486645
+iter number = 5, PSNR x= 31.470267,  PSNR w= 31.482354
+iter number = 6, PSNR x= 31.489683,  PSNR w= 31.490455
+iter number = 7, PSNR x= 31.505394,  PSNR w= 31.502487
+iter number = 8, PSNR x= 31.516675,  PSNR w= 31.502190
+iter number = 9, PSNR x= 31.523657,  PSNR w= 31.522413
+iter number = 10, PSNR x= 31.526290,  PSNR w= 31.520605
+iter number = 11, PSNR x= 31.525139,  PSNR w= 31.531836
+iter number = 12, PSNR x= 31.520473,  PSNR w= 31.519789
+iter number = 13, PSNR x= 31.513842,  PSNR w= 31.552102
+---------------------the Threshold:0.028
+iter number = 1, PSNR x= 31.380295,  PSNR w= 31.450384
+iter number = 2, PSNR x= 31.401892,  PSNR w= 31.519437
+iter number = 3, PSNR x= 31.425992,  PSNR w= 31.475965
+iter number = 4, PSNR x= 31.450358,  PSNR w= 31.485498
+iter number = 5, PSNR x= 31.473008,  PSNR w= 31.486653
+iter number = 6, PSNR x= 31.492471,  PSNR w= 31.491274
+iter number = 7, PSNR x= 31.508084,  PSNR w= 31.509523
+iter number = 8, PSNR x= 31.518871,  PSNR w= 31.501064
+iter number = 9, PSNR x= 31.525119,  PSNR w= 31.523125
+iter number = 10, PSNR x= 31.527005,  PSNR w= 31.529224
+iter number = 11, PSNR x= 31.524766,  PSNR w= 31.523972
+iter number = 12, PSNR x= 31.519333,  PSNR w= 31.533949
+iter number = 13, PSNR x= 31.511705,  PSNR w= 31.540958
+---------------------the Threshold:0.029
+iter number = 1, PSNR x= 31.380782,  PSNR w= 31.450384
+iter number = 2, PSNR x= 31.403045,  PSNR w= 31.519345
+iter number = 3, PSNR x= 31.427836,  PSNR w= 31.478300
+iter number = 4, PSNR x= 31.452759,  PSNR w= 31.486662
+iter number = 5, PSNR x= 31.475662,  PSNR w= 31.485130
+iter number = 6, PSNR x= 31.495345,  PSNR w= 31.501105
+iter number = 7, PSNR x= 31.510667,  PSNR w= 31.503356
+iter number = 8, PSNR x= 31.521093,  PSNR w= 31.510611
+iter number = 9, PSNR x= 31.526721,  PSNR w= 31.524071
+iter number = 10, PSNR x= 31.527529,  PSNR w= 31.519977
+iter number = 11, PSNR x= 31.524460,  PSNR w= 31.536624
+iter number = 12, PSNR x= 31.518112,  PSNR w= 31.531214
+iter number = 13, PSNR x= 31.509674,  PSNR w= 31.542279
+---------------------the Threshold:0.03
+iter number = 1, PSNR x= 31.381268,  PSNR w= 31.450384
+iter number = 2, PSNR x= 31.404194,  PSNR w= 31.519415
+iter number = 3, PSNR x= 31.429633,  PSNR w= 31.479279
+iter number = 4, PSNR x= 31.455029,  PSNR w= 31.486581
+iter number = 5, PSNR x= 31.478356,  PSNR w= 31.492279
+iter number = 6, PSNR x= 31.497980,  PSNR w= 31.495524
+iter number = 7, PSNR x= 31.513165,  PSNR w= 31.512344
+iter number = 8, PSNR x= 31.522998,  PSNR w= 31.506280
+iter number = 9, PSNR x= 31.527955,  PSNR w= 31.530000
+iter number = 10, PSNR x= 31.527667,  PSNR w= 31.511895
+iter number = 11, PSNR x= 31.523895,  PSNR w= 31.552461
+iter number = 12, PSNR x= 31.516514,  PSNR w= 31.519720
+iter number = 13, PSNR x= 31.507404,  PSNR w= 31.550571
+---------------------the Threshold:0.031
+iter number = 1, PSNR x= 31.381752,  PSNR w= 31.450384
+iter number = 2, PSNR x= 31.405348,  PSNR w= 31.519886
+iter number = 3, PSNR x= 31.431426,  PSNR w= 31.479953
+iter number = 4, PSNR x= 31.457323,  PSNR w= 31.487510
+iter number = 5, PSNR x= 31.480800,  PSNR w= 31.489897
+iter number = 6, PSNR x= 31.500467,  PSNR w= 31.503302
+iter number = 7, PSNR x= 31.515174,  PSNR w= 31.505754
+iter number = 8, PSNR x= 31.524488,  PSNR w= 31.515612
+iter number = 9, PSNR x= 31.528484,  PSNR w= 31.523202
+iter number = 10, PSNR x= 31.527563,  PSNR w= 31.529412
+iter number = 11, PSNR x= 31.522571,  PSNR w= 31.534946
+iter number = 12, PSNR x= 31.514507,  PSNR w= 31.538268
+iter number = 13, PSNR x= 31.504415,  PSNR w= 31.536754
+---------------------the Threshold:0.032
+iter number = 1, PSNR x= 31.382235,  PSNR w= 31.450384
+iter number = 2, PSNR x= 31.406487,  PSNR w= 31.520039
+iter number = 3, PSNR x= 31.433164,  PSNR w= 31.479628
+iter number = 4, PSNR x= 31.459588,  PSNR w= 31.490620
+iter number = 5, PSNR x= 31.483353,  PSNR w= 31.489879
+iter number = 6, PSNR x= 31.502955,  PSNR w= 31.501696
+iter number = 7, PSNR x= 31.517281,  PSNR w= 31.505853
+iter number = 8, PSNR x= 31.526049,  PSNR w= 31.520021
+iter number = 9, PSNR x= 31.529127,  PSNR w= 31.518438
+iter number = 10, PSNR x= 31.527414,  PSNR w= 31.537253
+iter number = 11, PSNR x= 31.521400,  PSNR w= 31.528844
+iter number = 12, PSNR x= 31.512493,  PSNR w= 31.541877
+iter number = 13, PSNR x= 31.501592,  PSNR w= 31.532941
+---------------------the Threshold:0.033
+iter number = 1, PSNR x= 31.382716,  PSNR w= 31.450384
+iter number = 2, PSNR x= 31.407673,  PSNR w= 31.521867
+iter number = 3, PSNR x= 31.434917,  PSNR w= 31.477505
+iter number = 4, PSNR x= 31.461833,  PSNR w= 31.495326
+iter number = 5, PSNR x= 31.485851,  PSNR w= 31.492958
+iter number = 6, PSNR x= 31.505452,  PSNR w= 31.505420
+iter number = 7, PSNR x= 31.519535,  PSNR w= 31.510754
+iter number = 8, PSNR x= 31.527629,  PSNR w= 31.517124
+iter number = 9, PSNR x= 31.530085,  PSNR w= 31.529774
+iter number = 10, PSNR x= 31.527113,  PSNR w= 31.522103
+iter number = 11, PSNR x= 31.520422,  PSNR w= 31.547785
+iter number = 12, PSNR x= 31.510405,  PSNR w= 31.526331
+iter number = 13, PSNR x= 31.499020,  PSNR w= 31.548027
+---------------------the Threshold:0.034
+iter number = 1, PSNR x= 31.383195,  PSNR w= 31.450384
+iter number = 2, PSNR x= 31.408807,  PSNR w= 31.522284
+iter number = 3, PSNR x= 31.436637,  PSNR w= 31.477656
+iter number = 4, PSNR x= 31.463939,  PSNR w= 31.495347
+iter number = 5, PSNR x= 31.488092,  PSNR w= 31.493475
+iter number = 6, PSNR x= 31.507655,  PSNR w= 31.510148
+iter number = 7, PSNR x= 31.521072,  PSNR w= 31.501739
+iter number = 8, PSNR x= 31.528621,  PSNR w= 31.530003
+iter number = 9, PSNR x= 31.530161,  PSNR w= 31.524983
+iter number = 10, PSNR x= 31.526356,  PSNR w= 31.529491
+iter number = 11, PSNR x= 31.518590,  PSNR w= 31.541014
+iter number = 12, PSNR x= 31.507772,  PSNR w= 31.532328
+iter number = 13, PSNR x= 31.495686,  PSNR w= 31.545080
+---------------------the Threshold:0.035
+iter number = 1, PSNR x= 31.383673,  PSNR w= 31.450384
+iter number = 2, PSNR x= 31.409950,  PSNR w= 31.523160
+iter number = 3, PSNR x= 31.438359,  PSNR w= 31.477574
+iter number = 4, PSNR x= 31.466043,  PSNR w= 31.495627
+iter number = 5, PSNR x= 31.490456,  PSNR w= 31.498906
+iter number = 6, PSNR x= 31.509751,  PSNR w= 31.504665
+iter number = 7, PSNR x= 31.522858,  PSNR w= 31.511297
+iter number = 8, PSNR x= 31.529736,  PSNR w= 31.527799
+iter number = 9, PSNR x= 31.530382,  PSNR w= 31.525473
+iter number = 10, PSNR x= 31.525840,  PSNR w= 31.537327
+iter number = 11, PSNR x= 31.517101,  PSNR w= 31.534908
+iter number = 12, PSNR x= 31.505567,  PSNR w= 31.537386
+iter number = 13, PSNR x= 31.492802,  PSNR w= 31.540800
+---------------------the Threshold:0.036
+iter number = 1, PSNR x= 31.384149,  PSNR w= 31.450384
+iter number = 2, PSNR x= 31.411060,  PSNR w= 31.523352
+iter number = 3, PSNR x= 31.439999,  PSNR w= 31.477149
+iter number = 4, PSNR x= 31.468120,  PSNR w= 31.498947
+iter number = 5, PSNR x= 31.492651,  PSNR w= 31.499657
+iter number = 6, PSNR x= 31.511765,  PSNR w= 31.505677
+iter number = 7, PSNR x= 31.524420,  PSNR w= 31.513278
+iter number = 8, PSNR x= 31.530569,  PSNR w= 31.527128
+iter number = 9, PSNR x= 31.530381,  PSNR w= 31.528338
+iter number = 10, PSNR x= 31.524811,  PSNR w= 31.533779
+iter number = 11, PSNR x= 31.515453,  PSNR w= 31.545631
+iter number = 12, PSNR x= 31.503318,  PSNR w= 31.534469
+iter number = 13, PSNR x= 31.490107,  PSNR w= 31.538921
+---------------------the Threshold:0.037
+iter number = 1, PSNR x= 31.384623,  PSNR w= 31.450384
+iter number = 2, PSNR x= 31.412146,  PSNR w= 31.523054
+iter number = 3, PSNR x= 31.441611,  PSNR w= 31.477277
+iter number = 4, PSNR x= 31.470101,  PSNR w= 31.500523
+iter number = 5, PSNR x= 31.494733,  PSNR w= 31.500989
+iter number = 6, PSNR x= 31.513629,  PSNR w= 31.507380
+iter number = 7, PSNR x= 31.525781,  PSNR w= 31.514564
+iter number = 8, PSNR x= 31.531115,  PSNR w= 31.526774
+iter number = 9, PSNR x= 31.529903,  PSNR w= 31.527188
+iter number = 10, PSNR x= 31.523625,  PSNR w= 31.544339
+iter number = 11, PSNR x= 31.512950,  PSNR w= 31.527150
+iter number = 12, PSNR x= 31.500083,  PSNR w= 31.545898
+iter number = 13, PSNR x= 31.486238,  PSNR w= 31.535259
+---------------------the Threshold:0.038
+iter number = 1, PSNR x= 31.385095,  PSNR w= 31.450384
+iter number = 2, PSNR x= 31.413230,  PSNR w= 31.522914
+iter number = 3, PSNR x= 31.443228,  PSNR w= 31.477789
+iter number = 4, PSNR x= 31.472055,  PSNR w= 31.501070
+iter number = 5, PSNR x= 31.496855,  PSNR w= 31.504434
+iter number = 6, PSNR x= 31.515541,  PSNR w= 31.507473
+iter number = 7, PSNR x= 31.527230,  PSNR w= 31.516882
+iter number = 8, PSNR x= 31.531841,  PSNR w= 31.527922
+iter number = 9, PSNR x= 31.529829,  PSNR w= 31.530501
+iter number = 10, PSNR x= 31.522580,  PSNR w= 31.541804
+iter number = 11, PSNR x= 31.511035,  PSNR w= 31.528561
+iter number = 12, PSNR x= 31.497491,  PSNR w= 31.546314
+iter number = 13, PSNR x= 31.483109,  PSNR w= 31.532346
+---------------------the Threshold:0.039
+iter number = 1, PSNR x= 31.385566,  PSNR w= 31.450384
+iter number = 2, PSNR x= 31.414328,  PSNR w= 31.523389
+iter number = 3, PSNR x= 31.444894,  PSNR w= 31.479096
+iter number = 4, PSNR x= 31.474134,  PSNR w= 31.502923
+iter number = 5, PSNR x= 31.498965,  PSNR w= 31.503376
+iter number = 6, PSNR x= 31.517449,  PSNR w= 31.511704
+iter number = 7, PSNR x= 31.528409,  PSNR w= 31.511836
+iter number = 8, PSNR x= 31.532497,  PSNR w= 31.540781
+iter number = 9, PSNR x= 31.529561,  PSNR w= 31.524452
+iter number = 10, PSNR x= 31.521299,  PSNR w= 31.541271
+iter number = 11, PSNR x= 31.509011,  PSNR w= 31.534400
+iter number = 12, PSNR x= 31.494713,  PSNR w= 31.541181
+iter number = 13, PSNR x= 31.479981,  PSNR w= 31.536467
+---------------------the Threshold:0.04
+iter number = 1, PSNR x= 31.386035,  PSNR w= 31.450384
+iter number = 2, PSNR x= 31.415363,  PSNR w= 31.522387
+iter number = 3, PSNR x= 31.446451,  PSNR w= 31.480816
+iter number = 4, PSNR x= 31.476006,  PSNR w= 31.503552
+iter number = 5, PSNR x= 31.500757,  PSNR w= 31.501987
+iter number = 6, PSNR x= 31.519076,  PSNR w= 31.518830
+iter number = 7, PSNR x= 31.529518,  PSNR w= 31.512373
+iter number = 8, PSNR x= 31.532848,  PSNR w= 31.541316
+iter number = 9, PSNR x= 31.528833,  PSNR w= 31.519643
+iter number = 10, PSNR x= 31.519842,  PSNR w= 31.550198
+iter number = 11, PSNR x= 31.506759,  PSNR w= 31.529992
+iter number = 12, PSNR x= 31.491895,  PSNR w= 31.541951
+iter number = 13, PSNR x= 31.476689,  PSNR w= 31.531462
+>> 
+
+%%%%%%%%%%%%%%%%%%%&&&&&&&&&&&&&&&&&&&&&&&&%%%%%%%%%%%%%%%%%
+sig = 35 
+mu = 0.029
+Threshold:240
+house.png
+Initial PSNR = 31.365917
+x= 31.527529 提升0.16+db
+迭代10次
+---------------------the Threshold:240
+iter number = 1, PSNR x= 31.380782,  PSNR w= 31.450384
+iter number = 2, PSNR x= 31.403045,  PSNR w= 31.519345
+iter number = 3, PSNR x= 31.427836,  PSNR w= 31.478300
+iter number = 4, PSNR x= 31.452759,  PSNR w= 31.486662
+iter number = 5, PSNR x= 31.475662,  PSNR w= 31.485130
+iter number = 6, PSNR x= 31.495345,  PSNR w= 31.501105
+iter number = 7, PSNR x= 31.510667,  PSNR w= 31.503356
+iter number = 8, PSNR x= 31.521093,  PSNR w= 31.510611
+iter number = 9, PSNR x= 31.526721,  PSNR w= 31.524071
+iter number = 10, PSNR x= 31.527529,  PSNR w= 31.519977
+%%%%%%%%%%%%%%%%%%%&&&&&&&&&&&&&&&&&&&&&&&&%%%%%%%%%%%%%%%%%
+
+
+%%%%%%%%%%%%%%%%%%%&&&&&&&&&&&&&&&&&&&&&&&&%%%%%%%%%%%%%%%%%
+sig = 35 
+mu = 0.04
+Threshold:240
+house.png
+Initial PSNR = 31.365917
+x= 31.532848 提升0.17+db
+迭代8次
+
+---------------------the Threshold:0.04
+iter number = 1, PSNR x= 31.386035,  PSNR w= 31.450384
+iter number = 2, PSNR x= 31.415363,  PSNR w= 31.522387
+iter number = 3, PSNR x= 31.446451,  PSNR w= 31.480816
+iter number = 4, PSNR x= 31.476006,  PSNR w= 31.503552
+iter number = 5, PSNR x= 31.500757,  PSNR w= 31.501987
+iter number = 6, PSNR x= 31.519076,  PSNR w= 31.518830
+iter number = 7, PSNR x= 31.529518,  PSNR w= 31.512373
+iter number = 8, PSNR x= 31.532848,  PSNR w= 31.541316
+
+
+
+%%%%%%%%%%%%%%%%%%%&&&&&&&&&&&&&&&&&&&&&&&&%%%%%%%%%%%%%%%%%
+sig = 35 
+mu = 0.09
+Threshold:240
+house.png
+Initial PSNR = 31.365917
+x= 31.541589 提升0.18+db
+迭代5次
+
+
+---------------------the Threshold:0.09
+iter number = 1, PSNR x= 31.407546,  PSNR w= 31.450384
+iter number = 2, PSNR x= 31.461025,  PSNR w= 31.533474
+iter number = 3, PSNR x= 31.506764,  PSNR w= 31.515140
+iter number = 4, PSNR x= 31.535238,  PSNR w= 31.534119
+iter number = 5, PSNR x= 31.541589,  PSNR w= 31.533444
+%%%%%%%%%%%%%%%%%%%&&&&&&&&&&&&&&&&&&&&&&&&%%%%%%%%%%%%%%%%%
+
+---------------------the Threshold:200
+iter number = 1, PSNR x= 31.407078,  PSNR w= 31.511176
+iter number = 2, PSNR x= 31.458457,  PSNR w= 31.521491
+iter number = 3, PSNR x= 31.503985,  PSNR w= 31.515321
+iter number = 4, PSNR x= 31.534606,  PSNR w= 31.527225
+iter number = 5, PSNR x= 31.547177,  PSNR w= 31.545344
+
+
+---------------------the Threshold:192
+iter number = 1, PSNR x= 31.406724,  PSNR w= 31.518793
+iter number = 2, PSNR x= 31.457412,  PSNR w= 31.518188
+iter number = 3, PSNR x= 31.502632,  PSNR w= 31.515361
+iter number = 4, PSNR x= 31.533838,  PSNR w= 31.531469
+iter number = 5, PSNR x= 31.547780,  PSNR w= 31.548228
+
+-----wnnm---
+mu=0.09
+iter number = 1, PSNR x= 31.409126,  PSNR w= 31.590132
+iter number = 2, PSNR x= 31.459683,  PSNR w= 31.501105
+iter number = 3, PSNR x= 31.506263,  PSNR w= 31.528316
+iter number = 4, PSNR x= 31.541128,  PSNR w= 31.545296
+iter number = 5, PSNR x= 31.560908,  PSNR w= 31.561355
+iter number = 6, PSNR x= 31.566039,  PSNR w= 31.572557
+--------mu = 0.12;
+iter number = 1, PSNR x= 31.421190,  PSNR w= 31.590132
+iter number = 2, PSNR x= 31.482385,  PSNR w= 31.514757
+iter number = 3, PSNR x= 31.533090,  PSNR w= 31.544941
+iter number = 4, PSNR x= 31.563911,  PSNR w= 31.564257
+iter number = 5, PSNR x= 31.573011,  PSNR w= 31.577188
