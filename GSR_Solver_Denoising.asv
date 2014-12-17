@@ -76,7 +76,7 @@ if iter ==1
      SigmaNoi = sigma * ones(size(SigmaNoi));  
 else
     Noi= sqrt(abs(repmat(sigma^2,1,size(PatchSetT,1))-mean((NoiseSetT-PatchSetT).^2,2)'));
-    SigmaNoi = Opts.lamada * Noi;
+    SigmaNoi = Opts.lam * Noi;
 end
 %--------------------------------------------------------------------------------------------------
 %%

@@ -87,7 +87,7 @@ for ImgNo = 1
                 
                  est = x + Opts.delta*(x_noi - x);
         
-                [x,diff_Cost,Critical] = GSR_Solver_Denoising(est,x_noi,Opts,iter);
+                [x,diff_Cost,Critical] = GSR_Solver_Denoising(est,x_noi,Opts,iter,sigma);
 %                 Total_Cost_T(:,iter,Outloop) = diff_Cost;
 %                 Total_Critical_T(:,iter,Outloop)= Critical;
                 
