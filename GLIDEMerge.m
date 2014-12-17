@@ -5,14 +5,14 @@ addpath(genpath(cur));
 
 
 for ImgNo = 1    
-    for Type = 5
+    for Type = 4 
         switch ImgNo
             case 1
                 ImgName = 'house.png';
            
         end
          x_org = double(imread(ImgName));
-        
+         sigma = 13.1501;
          
         switch Type
             case 1
@@ -29,12 +29,12 @@ for ImgNo = 1
                 x_noi = double(imread(Img_After_BM3D)); 
                 
             case 5
-                sigma = 35;
+               
                 randn('state', 1); % initialization
                 x_noi = x_org + randn(size(x_org)) * sigma; 
                
         end
-        Opts   = ParSet(sigma,x_org);  
+        Opts   = ParSet( sigma,x_org);  
         
         
         %Opts = [];
@@ -91,14 +91,13 @@ for ImgNo = 1
 %                 Total_Cost_T(:,iter,Outloop) = diff_Cost;
 %                 Total_Critical_T(:,iter,Outloop)= Critical;
                 
-%                 delta = 0.1;
-%                 x = w + delta*(x_noi - w);
+
                 
                 
 %                 x = muinv .*(w+c) + invmu .* x;
 %                 c = c + (w-x);
 
-                x_resid = est - x_org;
+                x_resid = x - x_org;
                 MSE(iter+1) =  (x_resid(:)'*x_resid(:))/numel(x_org);
                 %MSE(iter+1) = mean(x_resid2(:).^2);
                 fprintf('iter number = %d, PSNR x= %f,  PSNR est= %f\n',iter,csnr(x_org,x,0,0),csnr(x_org,est,0,0));

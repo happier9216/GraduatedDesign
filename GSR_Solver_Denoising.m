@@ -45,6 +45,8 @@ Patch_orgSet     =  zeros(PatchSize2, L, 'single');
 %---------
 x_org = Opts.org;
 Count     =  0;
+
+noise = x_org + randn(size(x_org)) * sigma; 
 for i  = 1:PatchSize
     for j  = 1:PatchSize
         Count    =  Count+1;
@@ -60,12 +62,16 @@ for i  = 1:PatchSize
         Patch_org  =  Patch_org(:);
         Patch_orgSet(Count,:) =  Patch_org';
         
+        Noise =  noise(i:Hight-PatchSize+i,j:Width-PatchSize+j);
+        Noise  =  Noise(:);
+        Noise_Set(Count,:) =  Noise';
     end
 end
 
 PatchSetT  =   PatchSet';
 NoiseSetT  = NoiPatch_Set';
 Patch_orgSetT =  Patch_orgSet';
+addNoise_SetT  = Noise_Set';
 
 
 %%
@@ -73,11 +79,14 @@ Patch_orgSetT =  Patch_orgSet';
 
 SigmaNoi = zeros(1,(Hight-PatchSize+1)*(Hight-PatchSize+1));
 if iter ==1
-     SigmaNoi = sigma * ones(size(SigmaNoi));  
+ %   Noi =  sqrt(abs(repmat(sigma^2,1,size(PatchSetT,1))-mean((addNoise_SetT-NoiseSetT).^2,2)'));
+    Noi = sigma *  ones(size(SigmaNoi));  
+    SigmaNoi =0.07* Noi;
 else
     Noi= sqrt(abs(repmat(sigma^2,1,size(PatchSetT,1))-mean((NoiseSetT-PatchSetT).^2,2)'));
-    SigmaNoi = Opts.lamada * Noi;
+    SigmaNoi = 0.07 * Noi;
 end
+
 %--------------------------------------------------------------------------------------------------
 %%
 I        =   (1:L);
