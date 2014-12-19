@@ -82,7 +82,7 @@ for ImgNo = 1
            
             for iter = 1:IterNum
                  if (mod(iter-1,Opts.Innerloop)==0)
-                    Opts.ArrayNo =  Opts.ArrayNo - 10;
+                    Opts.ArrayNo =  Opts.ArrayNo - 0;
                  end
                 
                 % est = x + Opts.delta*(x_noi - x);

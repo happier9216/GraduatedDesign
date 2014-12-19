@@ -1215,3 +1215,51 @@ iter number = 2, PSNR x= 31.482385,  PSNR w= 31.514757
 iter number = 3, PSNR x= 31.533090,  PSNR w= 31.544941
 iter number = 4, PSNR x= 31.563911,  PSNR w= 31.564257
 iter number = 5, PSNR x= 31.573011,  PSNR w= 31.577188
+
+
+Initial PSNR = 31.365917   60  递减
+iter number = 1, PSNR x= 31.427735,  PSNR est= 31.582493
+iter number = 2, PSNR x= 31.495880,  PSNR est= 31.534597
+iter number = 3, PSNR x= 31.549891,  PSNR est= 31.553422
+iter number = 4, PSNR x= 31.580980,  PSNR est= 31.578406
+iter number = 5, PSNR x= 31.586335,  PSNR est= 31.568577
+
+
+Initial PSNR = 31.365917    60  不递减
+iter number = 1, PSNR x= 31.428565,  PSNR est= 31.575476
+iter number = 2, PSNR x= 31.497685,  PSNR est= 31.536784
+iter number = 3, PSNR x= 31.553015,  PSNR est= 31.563585
+iter number = 4, PSNR x= 31.583851,  PSNR est= 31.583423
+iter number = 5, PSNR x= 31.588412,  PSNR est= 31.594599
+
+Initial PSNR = 31.365917   65  -5
+iter number = 1, PSNR x= 31.428565,  PSNR est= 31.575476
+iter number = 2, PSNR x= 31.497685,  PSNR est= 31.536784
+iter number = 3, PSNR x= 31.553151,  PSNR est= 31.565455
+iter number = 4, PSNR x= 31.584384,  PSNR est= 31.583084
+iter number = 5, PSNR x= 31.589984,  PSNR est= 31.595919
+GSR Finished...
+
+
+
+Initial PSNR = 31.365917 65  -10  没有-5好
+iter number = 1, PSNR x= 31.428302,  PSNR est= 31.579570
+iter number = 2, PSNR x= 31.497155,  PSNR est= 31.536655
+iter number = 3, PSNR x= 31.551881,  PSNR est= 31.557658
+iter number = 4, PSNR x= 31.583083,  PSNR est= 31.579846
+iter number = 5, PSNR x= 31.588410,  PSNR est= 31.577474
+GSR Finished...
+
+Initial PSNR = 31.365917  70-5
+iter number = 1, PSNR x= 31.428592,  PSNR est= 31.570362
+iter number = 2, PSNR x= 31.497952,  PSNR est= 31.538551
+iter number = 3, PSNR x= 31.553133,  PSNR est= 31.562924
+iter number = 4, PSNR x= 31.583755,  PSNR est= 31.583581
+iter number = 5, PSNR x= 31.588300,  PSNR est= 31.594934
+
+Initial PSNR = 31.365917  70-0
+iter number = 1, PSNR x= 31.428683,  PSNR est= 31.566884
+iter number = 2, PSNR x= 31.498181,  PSNR est= 31.538925
+iter number = 3, PSNR x= 31.553903,  PSNR est= 31.568529
+iter number = 4, PSNR x= 31.584062,  PSNR est= 31.581810
+iter number = 5, PSNR x= 31.587135,  PSNR est= 31.594555

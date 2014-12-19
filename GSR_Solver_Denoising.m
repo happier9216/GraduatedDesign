@@ -112,14 +112,21 @@ for  i  =  1 : NN
         
         CurPatchIndx  =  PatchSearch(PatchSetT, CurRow, CurCol, Off, ArrayNo, SearchWin, I);
         %------add-------------------------------------------------------------------------
-        CurPatch_OrgIndx  =  PatchSearch(Patch_orgSetT, CurRow, CurCol, Off, ArrayNo, SearchWin, I);
+      %%  CurPatch_OrgIndx  =  PatchSearch(Patch_orgSetT, CurRow, CurCol, Off, ArrayNo, SearchWin, I);
         %-------------------------------------------------------------------------------
         
         
         %IndcMatrix(i,j,:) = CurPatchIndx;
         
         CurArray = PatchSet(:, CurPatchIndx);
-        CurArray_Org = Patch_orgSet(:, CurPatch_OrgIndx);
+   %     CurArray_Org = Patch_orgSet(:, CurPatch_OrgIndx);
+        
+%         coeff = zeros(1,ArrayNo);
+%         coeff(1) = 1;
+%  for k =  2  :  ArrayNo
+%     
+%     coeff(k) = corr(PatchSetT(Off,:)',CurArray(:,k));
+% end
         
         %----add------
         diff_Cost((i-1)*NN+j) = sum(sum((CurArray -repmat(PatchSetT(Off,:)',1,size(CurArray,2))).^2));
@@ -129,7 +136,13 @@ for  i  =  1 : NN
         CurArray_res    =   CurArray  -   CurArray_Mean;     
         
        [U,SigmaY,V]  = svd(CurArray_res,'econ');
+       
+      
+%        Threshold = 2.858 * median(diag(SigmaY));
+%        SigmaX = SigmaY.*(abs(SigmaY)>Threshold);  
+       
     %  [U,SigmaY,V]  = svd(CurArray,'econ');
+    %-------------------------
         NSig =  SigmaNoi(Off);
         Temp   =   sqrt(max( diag(SigmaY).^2 - ArrayNo*NSig^2, 0 ));
        
@@ -138,6 +151,7 @@ for  i  =  1 : NN
             SigmaX   =  soft(SigmaY,diag(W_Vec));
             Temp     = diag(SigmaX);
         end
+       %---------------------------
            CurArray_post =  U*SigmaX*V'  +   CurArray_Mean; 
             %       CurArray_post =  CurArray_Mean; 
         
@@ -147,10 +161,10 @@ for  i  =  1 : NN
 %         non_zero = length(find(SG_Z>0));
 %         CurArray = SG_S*SG_Z*SG_D';
         
-        %--add-----------------------------------------
-        Critical((i-1)*NN+j) = sum(sum((CurArray_post - CurArray_Org).^2));
-        %-------------------------------------------        
-        Critical_1((i-1)*NN+j) =  sum(sum((CurArray - CurArray_Org).^2));
+%         %--add-----------------------------------------
+%         Critical((i-1)*NN+j) = sum(sum((CurArray_post - CurArray_Org).^2));
+%         %-------------------------------------------        
+%         Critical_1((i-1)*NN+j) =  sum(sum((CurArray - CurArray_Org).^2));
         
         for k = 1:ArrayNo
             PatchArray(:,:,k) = reshape(CurArray_post(:,k),PatchSize,PatchSize);
