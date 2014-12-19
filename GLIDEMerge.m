@@ -12,7 +12,7 @@ for ImgNo = 1
            
         end
          x_org = double(imread(ImgName));
-         sigma = 13.1501;
+         sigma = 35;
          
         switch Type
             case 1
@@ -48,7 +48,7 @@ for ImgNo = 1
 %         end
         
       
-      %  Opts.mu = 0.12;
+        Opts.mu = 0.12;
       %  Opts.lambda = 3.8283;
      %   Opts.block_size = 8;
         %Opts.Threshold = 376;
@@ -59,9 +59,9 @@ for ImgNo = 1
         MSE(1) = sum(sum((x_noi-x_org).^2))/numel(x_org);
         fprintf('Initial PSNR = %f\n',csnr(x_noi,x_org,0,0));
 
-%         mu = Opts.mu;
-%         invmu = 1/(mu+1);
-%         muinv = mu/(mu+1);
+        mu = Opts.mu;
+        invmu = 1/(mu+1);
+        muinv = mu/(mu+1);
         
 %         Threshold = 150;
 %         Threshold = 192;
@@ -85,22 +85,21 @@ for ImgNo = 1
                     Opts.ArrayNo =  Opts.ArrayNo - 10;
                  end
                 
-                 est = x + Opts.delta*(x_noi - x);
+                % est = x + Opts.delta*(x_noi - x);
+                % [x,diff_Cost,Critical] = GSR_Solver_Denoising(est,x_noi,Opts,iter,sigma);
         
-                [x,diff_Cost,Critical] = GSR_Solver_Denoising(est,x_noi,Opts,iter,sigma);
+                [w,diff_Cost,Critical] = GSR_Solver_Denoising(x-c,x_noi,Opts,iter,sigma);
 %                 Total_Cost_T(:,iter,Outloop) = diff_Cost;
 %                 Total_Critical_T(:,iter,Outloop)= Critical;
+            
                 
-
-                
-                
-%                 x = muinv .*(w+c) + invmu .* x;
-%                 c = c + (w-x);
+                x = muinv .*(w+c) + invmu .* x;
+                c = c + (w-x);
 
                 x_resid = x - x_org;
                 MSE(iter+1) =  (x_resid(:)'*x_resid(:))/numel(x_org);
                 %MSE(iter+1) = mean(x_resid2(:).^2);
-                fprintf('iter number = %d, PSNR x= %f,  PSNR est= %f\n',iter,csnr(x_org,x,0,0),csnr(x_org,est,0,0));
+                fprintf('iter number = %d, PSNR x= %f,  PSNR est= %f\n',iter,csnr(x_org,x,0,0),csnr(x_org,w,0,0));
 
                % x_aft  =  w;
             end

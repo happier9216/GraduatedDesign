@@ -81,10 +81,10 @@ SigmaNoi = zeros(1,(Hight-PatchSize+1)*(Hight-PatchSize+1));
 if iter ==1
  %   Noi =  sqrt(abs(repmat(sigma^2,1,size(PatchSetT,1))-mean((addNoise_SetT-NoiseSetT).^2,2)'));
     Noi = sigma *  ones(size(SigmaNoi));  
-    SigmaNoi =0.07* Noi;
+    SigmaNoi = Opts.lamada * Noi;
 else
     Noi= sqrt(abs(repmat(sigma^2,1,size(PatchSetT,1))-mean((NoiseSetT-PatchSetT).^2,2)'));
-    SigmaNoi = 0.07 * Noi;
+    SigmaNoi = Opts.lamada * Noi;
 end
 
 %--------------------------------------------------------------------------------------------------
@@ -138,8 +138,8 @@ for  i  =  1 : NN
             SigmaX   =  soft(SigmaY,diag(W_Vec));
             Temp     = diag(SigmaX);
         end
-          %    CurArray_post =  U*SigmaX*V';
-                CurArray_post =  U*SigmaX*V' +  CurArray_Mean; 
+           CurArray_post =  U*SigmaX*V'  +   CurArray_Mean; 
+            %       CurArray_post =  CurArray_Mean; 
         
         
         
